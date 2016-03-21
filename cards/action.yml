@@ -1,0 +1,76 @@
+Background:
+  x: 0
+  y: 0
+
+Name:
+  x: 15
+  y: 630
+  width: 790
+  height: 75
+  align: center
+  font: DejaVu Sans Mono Bold 50
+
+Art:
+  x: 155
+  y: 120
+  width: 515
+  height: 515
+
+Type:
+  x: 710
+  y: 1010
+  width: 95
+  height: 95
+
+text:
+  color: '#ECF5FD'
+
+top_icon:
+  width: 60
+  height: 60
+  y: 30
+
+Target_Icon:
+  extends: top_icon
+  x: 710
+
+Target:
+  extends: text
+  y: 30
+  x: 500
+  width: 200
+  height: 60
+  align: right
+  valign: bottom
+  font: DejaVu Sans Bold 24
+
+Cost1:
+  extends: top_icon
+  x: 55
+
+Cost2:
+  extends: Cost1
+  x: += 60
+
+Cost3:
+  extends: Cost2
+  x: += 60
+
+
+Description:
+  extends: text
+  x: 85
+  y: 745
+  width: 655
+  height: 200
+  justify: true
+  font: DejaVu Sans Bold 24
+
+Flavor:
+  extends: text
+  x: 30
+  y: 900
+  width: 660
+  height: 195
+  valign: bottom
+  font: DejaVu Sans style=italic 18 

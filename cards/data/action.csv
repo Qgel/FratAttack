@@ -1,0 +1,3 @@
+type, name, cost, target, art, description, flavor
+status, Broken Shield, 3, self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by twothousand cuts.
+status, Broken Shield 2, 5, self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by twothousand cuts.
