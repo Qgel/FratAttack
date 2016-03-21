@@ -30,7 +30,7 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
 
   text(str: data['description'], layout: :Description) do |embed|
     %w(shot beer).each do |drink|
-      embed.svg key: ":#{drink}:", file: "img/#{drink}.svg", width: 32, dx: 3, height: :scale
+      embed.svg key: ":#{drink}:", file: "img/#{drink}.svg", width: 40, dx: 0, dy: 2, height: :scale
     end
   end
 
@@ -48,5 +48,5 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
     text str: data['cost'].map{ |c| c.to_s + 'x'}, layout: :Cost_Text, range: costlies
     svg file: 'img/cost.svg', layout: :Cost2, range: costlies
 
-  save format: :png
+  save_pdf
 end
