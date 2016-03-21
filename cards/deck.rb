@@ -8,24 +8,27 @@ colors = {
 data = Squib.csv file: 'data/action.csv'
 Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
   png file: 'img/background.png', layout: :Background
-
-  svg file: 'img/art/broken-shield.svg', layout: :Art
-
-  text str: "Broken Shield", color: '#63b0ef', layout: :Name
-
-  text str: "Drink only half the amount (rounded up) you are forced to by any action targeted at you.",
-    layout: :Description 
-
-  text str: "~Death by two-thousand cuts~", layout: :Flavor
-
   svg file: 'img/target.svg', layout: :Target_Icon
 
-  text str: "Self", layout: :Target
+  svg file: data['art'].map{ |art| 'img/art/' + art + '.svg' }, layout: :Art
 
-  svg file: 'img/type_status.svg', layout: :Type
+  text str: data['name'], color: data['type'].map{|t| colors[t]}, layout: :Name
 
-  svg file: 'img/cost.svg', layout: :Cost1
-  svg file: 'img/cost.svg', layout: :Cost2
+  text str: data['description'], layout: :Description 
+
+  text str: data['flavor'].map{|f| '~ ' + f + ' ~'}, layout: :Flavor
+
+  text str: data['target'], layout: :Target
+
+  svg file: data['type'].map{|t| 'img/type_'+t+'.svg'}, layout: :Type
+
+  for n in 1..3
+    range = data['cost'].each_index.select{ |i| data['cost'][i] >= n and data['cost'][i] <= 3}
+    svg file: 'img/cost.svg', layout: "Cost#{n}", range: range
+  end
+    costlies = data['cost'].each_index.select{ |i| data['cost'][i] > 3}
+    text str: data['cost'].map{ |c| c.to_s + 'x'}, layout: :Cost_Text, range: costlies
+    svg file: 'img/cost.svg', layout: :Cost2, range: costlies
 
   save format: :png
 end

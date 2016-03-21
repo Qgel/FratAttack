@@ -56,6 +56,13 @@ Cost3:
   extends: Cost2
   x: += 60
 
+Cost_Text:
+  extends: 
+    - text
+    - Cost2
+  x: -= 105
+  width: 100
+  align: right
 
 Description:
   extends: text
