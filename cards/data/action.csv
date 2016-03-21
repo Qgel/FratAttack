@@ -1,3 +1,3 @@
 type, name, cost, target, art, description, flavor
-status, Broken Shield, 12, Self, broken-shield, Drink only half the amount (rounded up) you are forced:shot: to by any:beer: action targeted at you., Death by two-thousand cuts.
-action, Broken Shield 2, 1, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by twothousand cuts.
+status, Broken Shield, 12, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by two-thousand cuts.
+action, Beer Googles, 2, Any, spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
