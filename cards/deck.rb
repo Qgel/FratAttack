@@ -1,16 +1,30 @@
 require 'squib'
+require 'game_icons'
 
 colors = {
   'status' => '#63b0ef',
   'action' => '#f46400',
 }
 
+
 data = Squib.csv file: 'data/action.csv'
+
+# Load images from game-icons.net
+req_art = data['art'].zip(data['type'])
+req_art.uniq.each do |(art, type)|
+  path = "img/art/#{art}_#{type}.svg"
+  unless File.exist? path
+    File.open(path, "w+") do |f|
+      f.write(GameIcons.get(art).recolor(fg: colors[type], bg_opacity: 0.0).string)
+    end
+  end
+end
+
 Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
   png file: 'img/background.png', layout: :Background
   svg file: 'img/target.svg', layout: :Target_Icon
 
-  svg file: data['art'].map{ |art| "img/art/#{art}.svg" }, layout: :Art
+  svg file: req_art.map{ |(art, type)| "img/art/#{art}_#{type}.svg" }, layout: :Art
 
   text str: data['name'], color: data['type'].map{|t| colors[t]}, layout: :Name
 
