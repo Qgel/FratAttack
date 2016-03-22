@@ -1,2 +1,12 @@
 type,name,target,art,description,flavor
-status, The Fool, Self, jester-hat, You may only use your non-dominant hand as long as you hold this card., Don't you dare to spill your drink on this game!
+status,The Fool,Self,jester-hat,You may only use your non-dominant hand as long as you hold this card.,Don't you dare to spill your drink on this game!
+active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Gain a bottle:bottle: for each win. Drink:beer: for each loss.,Lizard poisons Spock.
+active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
+active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Dink:beer: once for each you fall short. Got all 5? Have 3 bottles:bottle:., XXXXX TODO XXXXX
+active,"Go Home...",Self, house, ... You're Drunk. Move to the Frat House., Home is where the beer is
+active,Lick Someone,Self,lizard-tongue,"You know, lick someone. Also, have a bottle:bottle:", XXXX TODO XXXXX
+active,Lovahs,All,charm,Everyone in a relationship drinks:beer:.,XXXX TODO XXXX
+active,Lone Wolf,All,love-howl,Everyone who is single drinks:beer:.,XXXX TODO XXXXX
+active,Get Inked,Self,quill-ink,"Get someone to draw on you. Who, Where and What: You get to choose two, they choose the other.","Trust me, you don't want to leave out 'Where'."
+active,Pickup,Self,heart-inside,"Use a pickup line on someone",Did it hurt when you fell from heaven?
+active,Four Eyes,All,spectacles,Drink:beer: if you wear glasses.,XXXXXX TODO XXXXX

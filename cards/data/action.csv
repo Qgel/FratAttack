@@ -8,6 +8,7 @@ status, Light Feet, 2, Any, wingfoot,"When moving to a square, you only trigger 
 status, Piggy Bank, 4, Any, piggy-bank, You drink:beer: any cards cost instead of paying it, XXXXXXXX TODO XXXXX
 status, Money Equals Power, 4, Any, money-stack,"For every 10 bottles:bottle: you have, you pay one less when playing a card", An offer you can't refuse.
 status, Drunken Master, 2, Any, monk-face, You get two instead of one bottle:bottle: when finishing your drink,XXXXXX TODO XXXXXXX
+status, Risky Business, 3, Any,life-in-the-balance,"While holding this card, drink only half the beer:beer: but double the shots:shot:.", XXXXX TODO XXXXXX
 active, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
 active, Drunken Stumble, 0, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
 active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", Let's be friends
@@ -17,7 +18,6 @@ active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has 
 active, Beer Googles, 2, Any, spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
 active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
-active,"Go Home...", 2, Self, house, ... You're Drunk. Move to the Frat House., Home is where the beer is
 active, Hoarder, 2, Any, gold-stack, Make a player drink:beer: equal to the combined cost of all cards he holds in his hands.,The rich get richer. And drunker.
 active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowlege is power
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card an play it.", XXXXX TODOXXXX
