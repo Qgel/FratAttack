@@ -29,7 +29,7 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
   text str: data['name'], color: data['type'].map{|t| colors[t]}, layout: :Name
 
   text(str: data['description'], layout: :Description) do |embed|
-    %w(shot beer).each do |drink|
+    %w(shot beer bottle).each do |drink|
       embed.svg key: ":#{drink}:", file: "img/#{drink}.svg", width: 40, dx: 0, dy: 2, height: :scale
     end
   end
