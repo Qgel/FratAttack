@@ -8,6 +8,10 @@ colors = {
 
 
 data = Squib.csv file: 'data/action.csv'
+event = Squib.csv file: 'data/event.csv'
+event.each do |k, v|
+  data[k] += v
+end
 
 # Load images from game-icons.net
 req_art = data['art'].zip(data['type'])
@@ -40,6 +44,7 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
 
   svg file: data['type'].map{|t| "img/type_#{t}.svg"}, layout: :Type
 
+  # Cost icons for action cards
   for n in 1..3
     range = data['cost'].each_index.select{ |i| data['cost'][i] != '?' and data['cost'][i] >= n and data['cost'][i] <= 3}
     svg file: 'img/cost.svg', layout: "Cost#{n}", range: range
@@ -47,6 +52,10 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
     costlies = data['cost'].each_index.select{ |i| data['cost'][i] == '?' or data['cost'][i] > 3}
     text str: data['cost'].map{ |c| c.to_s + 'x'}, layout: :Cost_Text, range: costlies
     svg file: 'img/cost.svg', layout: :Cost2, range: costlies
+
+  # Display "Event" and icon instead for event cards
+  text str: "Event", layout: :Event_Text, range: -event['name'].size..-1
+  svg file: 'img/event.svg', layout: :Cost1, range: -event['name'].size..-1
 
   save_pdf width: cm(29.7), height: cm(21)
 end

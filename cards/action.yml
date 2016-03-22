@@ -41,7 +41,7 @@ Target:
   width: 200
   height: 60
   align: right
-  valign: bottom
+  valign: middle
   font: DejaVu Sans Bold 24
 
 Cost1:
@@ -63,6 +63,15 @@ Cost_Text:
   x: -= 105
   width: 100
   align: right
+
+Event_Text:
+  extends: 
+    - text
+    - Cost2
+  width: 150
+  valign: middle
+  font: DejaVu Sans Bold 24
+
 
 Description:
   extends: text
