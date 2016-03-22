@@ -48,5 +48,5 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
     text str: data['cost'].map{ |c| c.to_s + 'x'}, layout: :Cost_Text, range: costlies
     svg file: 'img/cost.svg', layout: :Cost2, range: costlies
 
-  save_pdf
+  save_pdf width: cm(29.7), height: cm(21)
 end
