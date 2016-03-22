@@ -18,8 +18,9 @@ req_art = data['art'].zip(data['type'])
 req_art.uniq.each do |(art, type)|
   path = "img/art/#{art}_#{type}.svg"
   unless File.exist? path
+    ico = GameIcons.get(art).recolor(fg: colors[type], bg_opacity: 0.0).string
     File.open(path, "w+") do |f|
-      f.write(GameIcons.get(art).recolor(fg: colors[type], bg_opacity: 0.0).string)
+      f.write(ico)
     end
   end
 end
