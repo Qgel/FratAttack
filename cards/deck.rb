@@ -59,3 +59,5 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
 
   save_pdf width: cm(29.7), height: cm(21)
 end
+
+print "Generated #{data['name'].size} cards: #{data['name'].size - event['name'].size} action, #{event['name'].size} event.\n"
