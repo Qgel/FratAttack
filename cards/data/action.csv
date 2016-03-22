@@ -23,3 +23,4 @@ active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card an play it.", XXXXX TODOXXXX
 active, Thief, 5, Enemy, snatch, Steal half of someones bottles:bottle:.,XXXXXX TODO XXXXXX 
 active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their bottles:bottle:.,This sucks. 
+active, Sprint, 2, Self, sprint, Move to a random enemies square on the board.,, How did I end up here?
