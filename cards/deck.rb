@@ -3,7 +3,7 @@ require 'game_icons'
 
 colors = {
   'status' => '#63b0ef',
-  'action' => '#f46400',
+  'active' => '#f46400',
 }
 
 
