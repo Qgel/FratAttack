@@ -1,3 +1,10 @@
-type, name, cost, target, art, description, flavor
-status, Broken Shield, 12, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by two-thousand cuts.
+type,name,cost,target,art,description,flavor
+status, Broken Shield, 2, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by two-thousand cuts.
+status, St. Patricks Day, 4, Enemy, clover,"Aquire at least 3 green objects and protect them from the other players. Drink:beer: everytime an iteem is stolen.", I'll be irish in a few beers.  
+action, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
+action, Drunken Stumble, ?, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
+action, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", XXXXXXXXXX TODO XXXXXXXXXXXXXXX
+action, Peer Pressure, ?, All, minions,Force everyone to take an action you need to perform with you. Drink:beer: once per player., Peer pressure? More like beer pressure!
+action, Swap, 3, Enemy, stone-throne, Swap seats and your spot in the playing order with a player of your choice., COME OVER HERE!
+action, Force the Hand, 4, Enemy, pointing, Choose a player who immediately has to play one of his action cards., I hope this doesn't backfire
 action, Beer Googles, 2, Any, spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
