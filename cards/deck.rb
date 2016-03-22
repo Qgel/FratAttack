@@ -41,10 +41,10 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
   svg file: data['type'].map{|t| "img/type_#{t}.svg"}, layout: :Type
 
   for n in 1..3
-    range = data['cost'].each_index.select{ |i| data['cost'][i] >= n and data['cost'][i] <= 3}
+    range = data['cost'].each_index.select{ |i| data['cost'][i] != '?' and data['cost'][i] >= n and data['cost'][i] <= 3}
     svg file: 'img/cost.svg', layout: "Cost#{n}", range: range
   end
-    costlies = data['cost'].each_index.select{ |i| data['cost'][i] > 3}
+    costlies = data['cost'].each_index.select{ |i| data['cost'][i] == '?' or data['cost'][i] > 3}
     text str: data['cost'].map{ |c| c.to_s + 'x'}, layout: :Cost_Text, range: costlies
     svg file: 'img/cost.svg', layout: :Cost2, range: costlies
 
