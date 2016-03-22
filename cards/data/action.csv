@@ -24,3 +24,5 @@ active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immedi
 active, Thief, 5, Enemy, snatch, Steal half of someones bottles:bottle:.,XXXXXX TODO XXXXXX 
 active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their bottles:bottle:.,This sucks. 
 active, Sprint, 2, Self, sprint, Move to a random enemies square on the board.,, How did I end up here?
+active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, Headshot!"
+active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
