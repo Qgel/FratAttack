@@ -31,7 +31,7 @@ active,Something Cute?,Self,lock-spy,"Guess the color of everyones underwear. Fo
 active,Thousand-Yard Stare,Self,angry-eyes,Enter a staring contest with the player to the left. Whoever wins gets three bottles:bottle:. The loser drinks:beer: three.,"War, war never changes"
 active,The Cauldron,Self,cauldron,"Take a drink from everyones cup. You get a bottle:bottle: for every drink you finish.",Will it blend?
 active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, everything on that card is doubled.",Bwwwwaaaaaaaaaak Bwaak Bwwaak Bwaaak Bwwaaaaaaak
-active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve bottles:bottle: equal to the fibonnacci number of removed clothes.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
+active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve bottles:bottle: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
 active,Chicks before Dicks,All,vine-flower,All male players drink:beer:, Lasses before Asses
 active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,XXXXXX TODO XXXX
@@ -43,3 +43,4 @@ active,ANGRY TRAIN,Self,railway,"Make an angry train sound. Have a bottle:bottle
 active,Beernado,Self,tornado,Spin as fast as you can for 10 seconds. Gain a bottle:bottle: for every two spins.,"You spin me right round baby right round, like a record baby"
 active,Dirty Mind,Self,brain-freeze,"If you've ever fantasized about someone who is playing, drink a shot:shot:. If you tell us who it is, you can make it a drink:beer: instead. Significant others don't count!",No details please
 active,Profit,Self,profit,"Get a bottle:bottle: from each player. For each recieved bottle, drink:beer: once.",I steal from the poor and give to myself
+active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, gain three bottles:bottle:","They may take our lives, but they'll never take... OUR FREEDOM"
