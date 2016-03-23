@@ -25,6 +25,10 @@ req_art.uniq.each do |(art, type)|
   end
 end
 
+def allSatisfying(data)
+  data.each_index.select{ |i| yield(data[i]) }
+end
+
 Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
   png file: 'img/background.png', layout: :Background
   svg file: 'img/target.svg', layout: :Target_Icon
@@ -47,10 +51,9 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
 
   # Cost icons for action cards
   for n in 1..3
-    range = data['cost'].each_index.select{ |i| data['cost'][i] != '?' and data['cost'][i] >= n and data['cost'][i] <= 3}
-    svg file: 'img/cost.svg', layout: "Cost#{n}", range: range
+    svg file: 'img/cost.svg', layout: "Cost#{n}", range: allSatisfying(data['cost']) { |v| v != '?' and v >= n and v <= 3 }
   end
-    costlies = data['cost'].each_index.select{ |i| data['cost'][i] == '?' or data['cost'][i] > 3}
+    costlies = allSatisfying data['cost'] { |v| v == '?' or v > 3}
     text str: data['cost'].map{ |c| c.to_s + 'x'}, layout: :Cost_Text, range: costlies
     svg file: 'img/cost.svg', layout: :Cost2, range: costlies
 

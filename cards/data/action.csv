@@ -1,6 +1,6 @@
 type,name,cost,target,art,description,flavor
 status, Broken Shield, 2, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by two-thousand cuts.
-status, St. Patricks Day, 3, Enemy, clover,"Aquire at least 3 green objects and protect them from the other players. Drink:beer: everytime an iteem is stolen.", I'll be irish in a few beers.  
+status, St. Patricks Day, 3, Enemy, clover,"Aquire at least 3 green objects and protect them from the other players. Drink:beer: everytime an item is stolen.", I'll be irish in a few beers.  
 status, Slow Motion, 2, Any, tortoise, You only move at half speed (rounded up), Slow and steady wins less of a hangover.
 status, Clone Bay, 3, Any,cryo-chamber,"Attach an action card to this status card. Each round drink:beer: both the cards costs and play the action cards effect.", Insanity: Doing the same thing over and over again and expecting different results
 status, Holy Shield, 3, Any, winged-shield,"Any time a card is played against you, you may drink:shot: to cancel the cards effect.", But at what cost?
@@ -25,6 +25,6 @@ active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immedi
 active, Thief, 5, Enemy, snatch, Steal half of someones bottles:bottle:.,XXXXXX TODO XXXXXX 
 active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their bottles:bottle:.,This sucks. 
 active, The Void, 10, All, wind-hole,"Everyone loses all their bottles (including yourself), unless they finish their drink","Blackness will come, one way or the other"
-active, Sprint, 2, Self, sprint, Move to a random enemies square on the board.,, How did I end up here?
+active, Sprint, 2, Self, sprint, Move to a random enemies square on the board., How did I end up here?
 active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, Headshot!"
 active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
