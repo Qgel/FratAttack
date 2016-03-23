@@ -9,6 +9,7 @@ status, Piggy Bank, 4, Any, piggy-bank, You drink:beer: any cards cost instead o
 status, Money Equals Power, 4, Any, money-stack,"For every 10 bottles:bottle: you have, you pay one less when playing a card", An offer you can't refuse.
 status, Drunken Master, 2, Any, monk-face, You get two instead of one bottle:bottle: when finishing your drink,XXXXXX TODO XXXXXXX
 status, Risky Business, 3, Any,life-in-the-balance,"While holding this card, drink only half the beer:beer: but double the shots:shot:.", XXXXX TODO XXXXXX
+status, Empty Hourglass, 2, Any, empty-hourglass,"If you finish your drink during your own turn, you can choose to go again instead of any other rewards you might have recieved from finishing it.", The agony of choice
 active, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
 active, Drunken Stumble, 0, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
 active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", Let's be friends
