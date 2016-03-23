@@ -17,6 +17,7 @@ status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, dr
 status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK YEAH CAPSLOCK
 status,Piggy Bank,Self,piggy-bank,"Choose a player. Whenever that player curses, you get a bottle:bottle:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an additional bottle:bottle: but you also have to drink:beer:",Isn't that a shiny little thing
+status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card.",XXXXXX TODO XXXXXX
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Gain a bottle:bottle: for each win. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
 active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Dink:beer: once for each you fall short. Got all 5? Have 3 bottles:bottle:., XXXXX TODO XXXXX
@@ -48,3 +49,4 @@ active,Witch Hunt,Any,witch-flight,"Remove all status cards from a player of you
 active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in bottles:bottle:",I expected it to be booby-trapped
 active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully",XXXX TODO XXXX
 active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
+active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
