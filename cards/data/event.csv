@@ -18,6 +18,7 @@ status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK
 status,Piggy Bank,Self,piggy-bank,"Choose a player. Whenever that player curses, you get a bottle:bottle:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an additional bottle:bottle: but you also have to drink:beer:",Isn't that a shiny little thing
 status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card.",XXXXXX TODO XXXXXX
+status,Ghost,Self,ghost,"All other players completely ignore you as long as you hold this card.",Haunting
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Gain a bottle:bottle: for each win. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
 active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Dink:beer: once for each you fall short. Got all 5? Have 3 bottles:bottle:., XXXXX TODO XXXXX
@@ -50,3 +51,7 @@ active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and
 active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully",XXXX TODO XXXX
 active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
 active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
+active,Reset,All,clockwork,"Shuffle all active status cards back into their decks.",XXXXXXX TODO XXXXXX
+active,Helping Hand,Self,shaking-hands,"All players agree on who is most drunk. You drink that players share until the end of their next turn.",I PITY THE FOOL
+active,Selfiieeee,Self,photo-camera,"Take a selfie together with an object of the groups choosing. Send it to the 11th person of the opposite sex in your contacts from top or bottom. Your choice.","... Eight, Nine, Ten, Shit"
+active,Nickname,Self,invisible,"Give someone a nickname. Anyone who fails to call that person by their new name drinks:beer:.",XXXX TODO XXXX
