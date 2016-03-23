@@ -33,3 +33,4 @@ active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, 
 active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
 active, Unstable Orbit, 3, All, solar-system,"Swap all cards in clockwise direction",Pluto is a planet
 active, Purge, 3, Self, earth-crack,"Remove all of your status cards",A new start
+active, Jump, 4, Self, lift,"Jump up and down enthusiastically. Play the action of the square you are currently standing on again.",XXXXX TODO XXXXX
