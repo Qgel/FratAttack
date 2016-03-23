@@ -35,3 +35,7 @@ active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge a
 active, Unstable Orbit, 3, All, solar-system,"Swap all cards in clockwise direction",Pluto is a planet
 active, Purge, 3, Self, earth-crack,"Remove all of your status cards",A new start
 active, Jump, 4, Self, lift,"Jump up and down enthusiastically. Play the action of the square you are currently standing on again.",XXXXX TODO XXXXX
+active,Pocket Ace,0,Self,ace,"Choose one:
+Gain three bottles:bottle:.
+Play an action card for free.
+Remove a status card.",Winner winner chicken dinner
