@@ -46,3 +46,5 @@ active,Profit,Self,profit,"Get a bottle:bottle: from each player. For each recie
 active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, gain three bottles:bottle:","They may take our lives, but they'll never take... OUR FREEDOM"
 active,Witch Hunt,Any,witch-flight,"Remove all status cards from a player of you choosing. Drink:beer: for each removed card.","Bloody Mary, Bloody Mary, Bloody Mary"
 active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in bottles:bottle:",I expected it to be booby-trapped
+active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully",XXXX TODO XXXX
+active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
