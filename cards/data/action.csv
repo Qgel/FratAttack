@@ -29,12 +29,14 @@ active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immedi
 active, Thief, 5, Enemy, snatch, Steal half of someones bottles:bottle:.,XXXXXX TODO XXXXXX 
 active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their bottles:bottle:.,This sucks. 
 active, The Void, 10, All, wind-hole,"Everyone loses all their bottles (including yourself), unless they finish their drink","Blackness will come, one way or the other"
-active, Sprint, 2, Self, sprint, Move to a random enemies square on the board., How did I end up here?
+active, Sprint, 1, Self, sprint, Move twice the distance on your next dice roll., The Flash
 active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, Headshot!"
 active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
 active, Unstable Orbit, 3, All, solar-system,"Swap all cards in clockwise direction",Pluto is a planet
 active, Purge, 3, Self, earth-crack,"Remove all of your status cards",A new start
 active, Jump, 4, Self, lift,"Jump up and down enthusiastically. Play the action of the square you are currently standing on again.",XXXXX TODO XXXXX
+active, Pipe, 2, Any, warp-pipe,"Move to any enemies square or force one enemy to move to yours","It's a me"
+active, Tiny Teleport, 3, Self, teleport,"Move to a square of your choice that's within five squares of you in either direction","Beam me up, Scotty"
 active,Pocket Ace,0,Self,ace,"Choose one:
 Gain three bottles:bottle:.
 Play an action card for free.
