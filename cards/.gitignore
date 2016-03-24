@@ -1,5 +1,4 @@
 _output/*.png
 _output/*.pdf
-img/art/
 ~$*
 .DS_Store

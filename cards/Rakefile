@@ -1,7 +1,13 @@
 require 'squib'
 
-task default: [:deck]
+task default: [:color]
 
-task :deck do
+task :color do
+  ENV['palette'] = 'color' 
+  load 'deck.rb'
+end
+
+task :bw do
+  ENV['palette'] = 'bw' 
   load 'deck.rb'
 end
