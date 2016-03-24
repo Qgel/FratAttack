@@ -12,11 +12,11 @@ status,Sherrif,Self,law-star,"While you hold this card, other players may try to
 status,Lawyer,Self,scales,Make up a rule. It is active as long as this card is in play.,Objection!
 status,Merge,Self,telepathy,"Merge with the player to your right, causing you to function as a single player. You share all statuses and actions always targeted both of you. On your turn, cast dice once and move both figures.",Who of us is the evil twin?
 status,The Plague,Self,poison-gas,Whoever holds the plague drinks double. Moves to the left after each round., XXXXXX TODO XXXX
-status,Amnesia,Self,drowning,"You cannot say any players name, including your own. If you do, drink:beer:","Shit, where did I leave my keys?"
+status,Amnesia,Self,drowning,"You cannot say any players name, including your own. If you do, drink:beer:.","Shit, where did I leave my keys?"
 status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, drink:beer:",XXXXXX TODO XXXXXX
 status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK YEAH CAPSLOCK
 status,Piggy Bank,Self,piggy-bank,"Choose a player. Whenever that player curses, you get a bottle:bottle:.",Money in the bank
-status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an additional bottle:bottle: but you also have to drink:beer:",Isn't that a shiny little thing
+status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an additional bottle:bottle: but you also have to drink:beer:.",Isn't that a shiny little thing
 status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card.",XXXXXX TODO XXXXXX
 status,Ghost,Self,ghost,"All other players completely ignore you as long as you hold this card.",Haunting
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
