@@ -12,6 +12,10 @@ def recolor(str, bg: '#000', fg: '#fff', bg_opacity: "1.0", fg_opacity: "1.0")
 end
 
 def load_image_local(path, color)
+    if not File.exist? path
+      print "Warning: Missing image #{path}\n"
+      return nil
+    end
     ico = File.open(path){ |f| f.read }
     recolor(ico, fg: color, bg_opacity: 0.0)
 end
