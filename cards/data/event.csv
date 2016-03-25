@@ -20,9 +20,13 @@ status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an ad
 status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card.",XXXXXX TODO XXXXXX
 status,Ghost,Self,ghost,"All other players completely ignore you as long as you hold this card.",Haunting
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
+status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TODO XXXX
+status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
+status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you rolled.",XXXX TODO XXXX
+status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Gain a bottle:bottle: for each win. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
-active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Dink:beer: once for each you fall short. Got all 5? Have 3 bottles:bottle:., XXXXX TODO XXXXX
+active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 bottles:bottle:., XXXXX TODO XXXXX
 active,"Go Home...",Self, house, ... You're Drunk. Move to the Frat House., Home is where the beer is
 active,Lick Someone,Self,lizard-tongue,"You know, lick someone. Also, have a bottle:bottle:", XXXX TODO XXXXX
 active,Lovahs,All,charm,Everyone in a relationship drinks:beer:.,XXXX TODO XXXX
@@ -32,7 +36,7 @@ active,Pickup,Self,heart-inside,"Use a pickup line on someone.",Are you my littl
 active,Four Eyes,All,spectacles,Drink:beer: if you wear glasses.,XXXXXX TODO XXXXX
 active,Something Cute?,Self,lock-spy,"Guess the color of everyones underwear. For each wrong guess,you drink:beer: once. For every correct guess, they drink:beer: twice.","I SEE LONDON, I SEE FRANCE"
 active,Thousand-Yard Stare,Self,angry-eyes,Enter a staring contest with the player to the left. Whoever wins gets three bottles:bottle:. The loser drinks:beer: three.,"War, war never changes"
-active,The Cauldron,Self,cauldron,"Take a drink from everyones cup. You get a bottle:bottle: for every drink you finish.",Will it blend?
+active,The Meltingpot,Self,cauldron,"Take a drink from everyones cup. You get a bottle:bottle: for every drink you finish.",Will it blend?
 active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, everything on that card is doubled.",Bwwwwaaaaaaaaaak Bwaak Bwwaak Bwaaak Bwwaaaaaaak
 active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve bottles:bottle: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
@@ -48,8 +52,8 @@ active,Dirty Mind,Self,brain-freeze,"If you've ever fantasized about someone who
 active,Profit,Self,profit,"Get a bottle:bottle: from each player. For each recieved bottle, drink:beer: once.",I steal from the poor and give to myself
 active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, gain three bottles:bottle:","They may take our lives, but they'll never take... OUR FREEDOM"
 active,Witch Hunt,Any,witch-flight,"Remove all status cards from a player of you choosing. Drink:beer: for each removed card.","Bloody Mary, Bloody Mary, Bloody Mary"
-active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in bottles:bottle:",I expected it to be booby-trapped
-active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully",XXXX TODO XXXX
+active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in bottles:bottle:.",I expected it to be booby-trapped
+active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully.",XXXX TODO XXXX
 active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
 active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
 active,Reset,All,clockwork,"Shuffle all active status cards back into their decks.",XXXXXXX TODO XXXXXX
@@ -58,4 +62,6 @@ active,Selfiieeee,Self,photo-camera,"Take a selfie together with an object of th
 active,Nickname,Self,invisible,"Give someone a nickname. Anyone who fails to call that person by their new name drinks:beer:.",XXXX TODO XXXX
 active,Weapons Trade,Self,switch-weapon,"Trade an action card with another player of your choice. Both of you choose their own card to trade away. Whoever receives the card with the higher cost drinks:beer: the costs difference.",XXXX TODO XXXX
 active,Treasure Map,Self,treasure-map,"Move forward three squares and look for treasure. You find 4 bottles:bottle:.",X marks the spot
-active,Spin the Bottle,Self,spiral-bottle,"Play a round of Truth or Dare","I dare you, I double dare you motherfucker"
+active,Spin the Bottle,Self,spiral-bottle,"Play a round of Truth or Dare.","I dare you, I double dare you motherfucker"
+active,Pablo Picasso,Self,palette,"Paint a picture of someone! Sell it to someone for bottles:bottle:.","Draw me like one of your french girls"
+active,Makeover,Self,gluttony,"Swap an article of clothing with someone else.",So pretty

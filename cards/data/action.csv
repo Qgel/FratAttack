@@ -21,7 +21,6 @@ active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the cho
 active, Peer Pressure, 2, All, minions,Force everyone to take an action you need to perform with you. Drink:beer: once per player., Peer pressure? More like beer pressure!
 active, Swap, 3, Enemy, stone-throne, Swap seats and your spot in the playing order with a player of your choice., COME OVER HERE!
 active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has to play one of his action cards., I hope this doesn't backfire.
-active, Beer Googles, 2, Any, spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
 active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
 active, Hoarder, 2, Any, gold-stack, Make a player drink:beer: equal to the combined cost of all cards he holds in his hands.,The rich get richer. And drunker.
