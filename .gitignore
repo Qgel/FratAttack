@@ -6,4 +6,5 @@
 Session.vim
 # temporary
 .netrwhist
+*.pdf
 *~
