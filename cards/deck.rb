@@ -38,7 +38,7 @@ def allSatisfying(data)
   data.each_index.select{ |i| yield(data[i]) }
 end
 
-Squib::Deck.new(cards: data['name'].size, layout: 'action.yml') do
+Squib::Deck.new(cards: data['name'].size, layout: 'action.yml', dpi: 450) do
   png file: "img/background_#{mode}.png", layout: :Background
   svg data: images['icon_target'], layout: :Target_Icon 
 
