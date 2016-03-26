@@ -17,7 +17,7 @@ status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, dr
 status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK YEAH CAPSLOCK
 status,Piggy Bank,Self,piggy-bank,"Choose a player. Whenever that player curses, you get a bottle:bottle:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an additional bottle:bottle: but you also have to drink:beer:.",Isn't that a shiny little thing
-status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card.",XXXXXX TODO XXXXXX
+status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one bottle:bottle:.",XXXXXX TODO XXXXXX
 status,Ghost,Self,ghost,"All other players completely ignore you as long as you hold this card.",Haunting
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
 status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TODO XXXX
