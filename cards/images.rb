@@ -1,5 +1,6 @@
 require 'nokogiri'
 
+# Recoloring for icons from game-icons.net
 def recolor(str, bg: '#000', fg: '#fff', bg_opacity: "1.0", fg_opacity: "1.0")
   doc     = Nokogiri::XML(str)
   doc.css('path')[0]['fill'] = bg # dark backdrop
@@ -18,7 +19,7 @@ def load_image_local(path, color)
   recolor(ico, fg: color, bg_opacity: 0.0)
 end
 
-
+# Load images from game-icons.net or from local files
 def load_images(req_art, colors)
   images = {
     'type_status' => GameIcons.get('aura').recolor(fg: colors['icon'], bg_opacity: 0.0).string,
@@ -31,7 +32,6 @@ def load_images(req_art, colors)
     'icon_event' => load_image_local("img/event.svg", colors['icon']),
   }
 
-  # Load images from game-icons.net
   req_art.uniq.each do |(art, type)|
     if GameIcons.names.include? art
       ico = GameIcons.get(art).recolor(fg: colors[type], bg_opacity: 0.0).string
@@ -40,5 +40,6 @@ def load_images(req_art, colors)
     end
     images["#{art}_#{type}"] = ico
   end
+
   images
 end
