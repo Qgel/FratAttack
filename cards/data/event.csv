@@ -15,44 +15,44 @@ status,The Plague,Self,poison-gas,Whoever holds the plague drinks double. Moves 
 status,Amnesia,Self,drowning,"You cannot say any players name, including your own. If you do, drink:beer:.","Shit, where did I leave my keys?"
 status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, drink:beer:",XXXXXX TODO XXXXXX
 status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK YEAH CAPSLOCK
-status,Piggy Bank,Self,piggy-bank,"Choose a player. Whenever that player curses, you get a bottle:bottle:.",Money in the bank
-status,Cursed Scarab,Self,gold-scarab,"Whenever you gain bottles, you gain an additional bottle:bottle: but you also have to drink:beer:.",Isn't that a shiny little thing
-status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one bottle:bottle:.",XXXXXX TODO XXXXXX
+status,Piggy Bank,Enemy,piggy-bank,"Choose a player. Whenever that player curses, you get a material:material:.",Money in the bank
+status,Cursed Scarab,Self,gold-scarab,"Whenever you gain materials, you gain an additional material:material: but you also have to drink:beer:.",Isn't that a shiny little thing
+status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one material:material:.",XXXXXX TODO XXXXXX
 status,Ghost,Self,ghost,"All other players completely ignore you as long as you hold this card.",Haunting
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
 status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TODO XXXX
 status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
 status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you rolled.",XXXX TODO XXXX
 status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
-active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Gain a bottle:bottle: for each win. Drink:beer: for each loss.,Lizard poisons Spock.
+active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Steal a material:material: from each player you win against. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
-active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 bottles:bottle:., XXXXX TODO XXXXX
+active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 materials:material:., XXXXX TODO XXXXX
 active,"Go Home...",Self, house, ... You're Drunk. Move to the Frat House., Home is where the beer is
-active,Lick Someone,Self,lizard-tongue,"You know, lick someone. Also, have a bottle:bottle:", XXXX TODO XXXXX
+active,Lick Someone,Self,lizard-tongue,"You know, lick someone.", XXXX TODO XXXXX
 active,Lovahs,All,charm,Everyone in a relationship drinks:beer:.,XXXX TODO XXXX
 active,Lone Wolf,All,love-howl,Everyone who is single drinks:beer:.,XXXX TODO XXXXX
 active,Get Inked,Self,quill-ink,"Get someone to draw on you. Who, Where and What: You get to choose two, they choose the other.","Trust me, you don't want to leave out 'Where'."
 active,Pickup,Self,heart-inside,"Use a pickup line on someone.",Are you my little toe? Because I want to bang you on the sofa
 active,Four Eyes,All,spectacles,Drink:beer: if you wear glasses.,XXXXXX TODO XXXXX
 active,Something Cute?,Self,lock-spy,"Guess the color of everyones underwear. For each wrong guess,you drink:beer: once. For every correct guess, they drink:beer: twice.","I SEE LONDON, I SEE FRANCE"
-active,Thousand-Yard Stare,Self,angry-eyes,Enter a staring contest with the player to the left. Whoever wins gets three bottles:bottle:. The loser drinks:beer: three.,"War, war never changes"
-active,The Meltingpot,Self,cauldron,"Take a drink from everyones cup. You get a bottle:bottle: for every drink you finish.",Will it blend?
+active,Thousand-Yard Stare,Self,angry-eyes,Enter a staring contest with the player to the left. Whoever wins gets three materials:material:. The loser drinks:beer: three.,"War, war never changes"
+active,The Meltingpot,Self,cauldron,"Take a drink from everyones cup. You get a material:material: for every drink you finish.",Will it blend?
 active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, everything on that card is doubled.",Bwwwwaaaaaaaaaak Bwaak Bwwaak Bwaaak Bwwaaaaaaak
-active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve bottles:bottle: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
+active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve materials:material: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
 active,Chicks before Dicks,All,vine-flower,All male players drink:beer:, Lasses before Asses
 active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,XXXXXX TODO XXXX
 active,My Turn!,Self,trade,"Swap a status card with another player. If you can't, drink:beer: and draw again!",That one looks way nicer than mine
-active,Your Lucky Day,Self,horseshoe,"Draw an action card, gain it's cost in bottles:bottle: and roll the dice again!","Well, that went better than expected"
-active,Charity,Self,prayer,"Give a bottle:bottle: to each player. Everyone who reveives one, drinks:beer:.",Generosity is my defining trait
-active,Challenge Accepted,Self,william-tell,"The other players agree on a challenge and reward in bottles:bottle:. If you fulfill the challenge, you recieve the bottles as a reward.",A challenger appears
-active,ANGRY TRAIN,Self,railway,"Make an angry train sound. Have a bottle:bottle: for your troubles.",Angry Angry Amtrak
-active,Beernado,Self,tornado,Spin as fast as you can for 10 seconds. Gain a bottle:bottle: for every two spins.,"You spin me right round baby right round, like a record baby"
+active,Your Lucky Day,Self,horseshoe,"Draw an action card, gain it's cost in materials:material: and roll the dice again!","Well, that went better than expected"
+active,Charity,Self,prayer,"Give a material:material: to each player. Everyone who reveives one, drinks:beer:.",Generosity is my defining trait
+active,Challenge Accepted,Self,william-tell,"The other players agree on a challenge and reward in materials:material:. If you fulfill the challenge, you recieve the materials as a reward.",A challenger appears
+active,ANGRY TRAIN,Self,railway,"Make an angry train sound. Have a material:material: for your troubles.",Angry Angry Amtrak
+active,Beernado,Self,tornado,Spin as fast as you can for 10 seconds. Gain a material:material: for every two spins.,"You spin me right round baby right round, like a record baby"
 active,Dirty Mind,Self,brain-freeze,"If you've ever fantasized about someone who is playing, drink a shot:shot:. If you tell us who it is, you can make it a drink:beer: instead. Significant others don't count!",No details please
-active,Profit,Self,profit,"Get a bottle:bottle: from each player. For each recieved bottle, drink:beer: once.",I steal from the poor and give to myself
-active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, gain three bottles:bottle:","They may take our lives, but they'll never take... OUR FREEDOM"
+active,Profit,Self,profit,"Get a material:material: from each player. For each recieved material, drink:beer: once.",I steal from the poor and give to myself
+active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, gain three materials:material:","They may take our lives, but they'll never take... OUR FREEDOM"
 active,Witch Hunt,Any,witch-flight,"Remove all status cards from a player of you choosing. Drink:beer: for each removed card.","Bloody Mary, Bloody Mary, Bloody Mary"
-active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in bottles:bottle:.",I expected it to be booby-trapped
+active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in materials:material:.",I expected it to be booby-trapped
 active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully.",XXXX TODO XXXX
 active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
 active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
@@ -61,7 +61,7 @@ active,Helping Hand,Self,shaking-hands,"All players agree on who is most drunk. 
 active,Selfiieeee,Self,photo-camera,"Take a selfie together with an object of the groups choosing. Send it to the 11th person of the opposite sex in your contacts from top or bottom. Your choice.","... Eight, Nine, Ten, Shit"
 active,Nickname,Self,invisible,"Give someone a nickname. Anyone who fails to call that person by their new name drinks:beer:.",XXXX TODO XXXX
 active,Weapons Trade,Self,switch-weapon,"Trade an action card with another player of your choice. Both of you choose their own card to trade away. Whoever receives the card with the higher cost drinks:beer: the costs difference.",XXXX TODO XXXX
-active,Treasure Map,Self,treasure-map,"Move forward three squares and look for treasure. You find 4 bottles:bottle:.",X marks the spot
+active,Treasure Map,Self,treasure-map,"Move forward three squares and look for treasure. You find 4 materials:material:.",X marks the spot
 active,Spin the Bottle,Self,spiral-bottle,"Play a round of Truth or Dare.","I dare you, I double dare you motherfucker"
-active,Pablo Picasso,Self,palette,"Paint a picture of someone! Sell it to someone for bottles:bottle:.","Draw me like one of your french girls"
+active,Pablo Picasso,Self,palette,"Paint a picture of someone! Sell it to someone for materials:material:.","Draw me like one of your french girls"
 active,Makeover,Self,gluttony,"Swap an article of clothing with someone else.",So pretty

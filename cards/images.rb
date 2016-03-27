@@ -26,7 +26,7 @@ def load_images(req_art, colors)
     'type_active' => GameIcons.get('fast-arrow').recolor(fg: colors['icon'], bg_opacity: 0.0).string,
     'icon_beer' => load_image_local("img/beer.svg", colors['embed']),
     'icon_shot' => load_image_local("img/shot.svg", colors['embed']),
-    'icon_bottle' => load_image_local("img/bottle.svg", colors['embed']),
+    'icon_material' => load_image_local("img/material.svg", colors['embed']),
     'icon_cost' => load_image_local("img/cost.svg", colors['icon']),
     'icon_target' => load_image_local("img/target.svg", colors['icon']),
     'icon_event' => load_image_local("img/event.svg", colors['icon']),
