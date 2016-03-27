@@ -28,6 +28,7 @@ end
 
 task :assemble do
   sh "inkscape board.svg --export-pdf=board.pdf"
-  sh "pdfunite cards/_output/output.pdf board.pdf FratAttack.pdf"
+  sh "pandoc -V geometry:margin=1in -V geometry:a4paper RULES.md -o rules.pdf"
+  sh "pdfunite cards/_output/output.pdf board.pdf rules.pdf FratAttack.pdf"
 end
   
