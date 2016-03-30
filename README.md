@@ -36,4 +36,5 @@ If you'd like to help, there are several ways:
 
 The easiest way to let us know about your ideas is to open an issue on the bugtracker!
 
-
+# Attribution
+Most of the art for this game was graciously provided under [Creative Commons](http://creativecommons.org/licenses/by/3.0/) by [Game-Icons.net](http://game-icons.net/). Thanks!
