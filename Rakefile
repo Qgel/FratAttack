@@ -28,7 +28,9 @@ end
 
 task :assemble do
   sh "inkscape board.svg --export-pdf=board.pdf"
+  sh "inkscape score_tracker.svg --export-pdf=score_tracker.pdf"
+  sh "pdfjam score_tracker.pdf score_tracker.pdf score_tracker.pdf score_tracker.pdf --nup 2x2 --a4paper --landscape --quiet --outfile score_tracker_page.pdf"
   sh "pandoc -V geometry:margin=1in -V geometry:a4paper RULES.md -o rules.pdf"
-  sh "pdfunite cards/_output/output.pdf board.pdf rules.pdf FratAttack.pdf"
+  sh "pdfunite cards/_output/output.pdf board.pdf score_tracker_page.pdf rules.pdf FratAttack.pdf"
 end
   
