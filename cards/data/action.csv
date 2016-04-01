@@ -23,7 +23,7 @@ active, Swap, 3, Enemy, stone-throne, Swap seats and your spot in the playing or
 active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has to play one of his action cards., I hope this doesn't backfire.
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
 active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
-active, Hoarder, 2, Any, gold-stack, Make a player drink:beer: equal to the combined cost of all cards he holds in his hands.,The rich get richer. And drunker.
+active, Hoarder, 2, Any, gold-stack,"Make a player drink:beer: equal to the combined cost of all cards he holds in his hands. At most, they player has to finish their drink.",The rich get richer. And drunker.
 active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowlege is power
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card an play it.", XXXXX TODOXXXX
 active, Thief, 5, Enemy, snatch, Steal half of someones materials:material:.,XXXXXX TODO XXXXXX 
