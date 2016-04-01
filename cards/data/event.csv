@@ -18,7 +18,7 @@ status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK
 status,Piggy Bank,Enemy,piggy-bank,"Choose a player. Whenever that player curses, you get a material:material:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain materials, you gain an additional material:material: but you also have to drink:beer:.",Isn't that a shiny little thing
 status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one material:material:.",XXXXXX TODO XXXXXX
-status,Ghost,Self,ghost,"All other players completely ignore you as long as you hold this card.",Haunting
+status,Ghost,Self,ghost,"All other players ignore you for anything not directly related to the game as long as this card is active.",Haunting
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
 status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TODO XXXX
 status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
