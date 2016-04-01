@@ -7,7 +7,7 @@ status, Holy Shield, 3, Any, winged-shield,"Any time a card is played against yo
 status, Light Feet, 2, Any, wingfoot,"When moving to a square, you only trigger it's action if you rolled the dice to get there.", XXXXXXXXXX TODO XXXXXXXXXXX
 status, Piggy Bank, 4, Any, piggy-bank, You drink:beer: any cards cost instead of paying it, XXXXXXXX TODO XXXXX
 status, Money Equals Power, 4, Any, money-stack,"For every 10 materials:material: you have, you pay one less when playing a card", An offer you can't refuse.
-status, Drunken Master, 2, Any, monk-face, You get double the normal amount of materials:material: when finishing your drink,XXXXXX TODO XXXXXXX
+status, Drunken Master, 2, Any, monk-face, You get double the normal amount of materials:material: from finishing your drink,XXXXXX TODO XXXXXXX
 status, Risky Business, 3, Any,life-in-the-balance,"While holding this card, drink only half the beer:beer: but double the shots:shot:.", XXXXX TODO XXXXXX
 status, Empty Hourglass, 2, Any, empty-hourglass,"If you finish your drink during your own turn, you can choose to go again instead of any other rewards you might have recieved from finishing it.", The agony of choice
 status, Drinking Buddy, 3, Enemy, ages,"The enemy who holds this card always drinks half (rounded up) of whatever you drink.",It's always nice to have someone to drink with
