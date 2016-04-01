@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.58613"
-     inkscape:cx="56.067766"
-     inkscape:cy="193.49239"
+     inkscape:zoom="4.8034223"
+     inkscape:cx="105.34817"
+     inkscape:cy="213.3786"
      inkscape:document-units="px"
-     inkscape:current-layer="g3361"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-others="false"
      inkscape:snap-nodes="false"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -320,13 +320,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.587379"
+       x="71.04467"
        y="820.76227"
        id="text4858-92"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4860-21"
-         x="69.587379"
+         x="71.04467"
          y="820.76227"
          style="font-size:20px;text-align:center;text-anchor:middle">11</tspan></text>
     <circle
@@ -500,13 +500,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.462585"
+       x="71.544434"
        y="864.99878"
        id="text4858-92-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4860-21-6"
-         x="69.462585"
+         x="71.544434"
          y="864.99878"
          style="font-size:20px;text-align:center;text-anchor:middle">21</tspan></text>
     <circle
@@ -680,14 +680,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.462585"
-       y="909.28448"
+       x="71.232155"
+       y="909.38855"
        id="text4858-92-7-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4860-21-6-6"
-         x="69.462585"
-         y="909.28448"
+         x="71.232155"
+         y="909.38855"
          style="font-size:20px;text-align:center;text-anchor:middle">31</tspan></text>
     <circle
        id="path3356-3-6-9-7"
