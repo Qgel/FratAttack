@@ -28,7 +28,7 @@ active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card an play it.", XXXXX TODOXXXX
 active, Thief, 5, Enemy, snatch, Steal half of someones materials:material:.,XXXXXX TODO XXXXXX 
 active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their materials:material:.,This sucks. 
-active, The Void, 10, All, wind-hole,"Everyone loses all their bottles (including yourself), unless they finish their drink","Blackness will come, one way or the other"
+active, The Void, 10, All, wind-hole,"Everyone loses all their materials:material: (including yourself), unless they finish their drink","Blackness will come, one way or the other"
 active, Sprint, 1, Self, sprint, Move twice the distance on your next dice roll., The Flash
 active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, Headshot!"
 active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
