@@ -7,13 +7,13 @@ status,Knifes Edge,???,curvy-knife,"Ask everyone to come up with any rule for th
 Done? The card applies to the player who came up with the rule!",Is it worth the risk?
 status,Knifes Edge,???,curvy-knife,"Ask everyone to come up with any rule for this status card. Don't read the rest of this card out loud until they have.
 Done? The effect that was chosen for this status card applies to you!",Is it worth the risk?
-status,Wear it Backwards,Self,shadow-follower,"While holding this card, wear an article of clothing backwards.",XXXXX TODO XXXXX
+status,Wear it Backwards,Self,shadow-follower,"While holding this card, wear an article of clothing backwards.",Something's wrong..
 status,Sherrif,Self,law-star,"While you hold this card, other players may try to cheat when being forced to drink. If you notice, they drink double. If you don't, you drink what they left out.",The law is the law
 status,Lawyer,Self,scales,Make up a rule. It is active as long as this card is in play.,Objection!
 status,Merge,Self,telepathy,"Merge with the player to your right, causing you to function as a single player. You share all statuses and actions always targeted both of you. On your turn, cast dice once and move both figures.",Who of us is the evil twin?
-status,The Plague,Self,poison-gas,Whoever holds the plague drinks double. Moves to the left after each round., XXXXXX TODO XXXX
+status,The Plague,Self,poison-gas,Whoever holds the plague drinks double. Moves to the left after each round.,It's contagious
 status,Amnesia,Self,drowning,"You cannot say any players name, including your own. If you do, drink:beer:.","Shit, where did I leave my keys?"
-status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, drink:beer:",XXXXXX TODO XXXXXX
+status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, drink:beer:",Just like when you were little
 status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK YEAH CAPSLOCK
 status,Piggy Bank,Enemy,piggy-bank,"Choose a player. Whenever that player curses, you get a material:material:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain materials, you gain an additional material:material: but you also have to drink:beer:.",Isn't that a shiny little thing
@@ -28,9 +28,9 @@ active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against ever
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
 active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 materials:material:., XXXXX TODO XXXXX
 active,"Go Home...",Self, house, ... You're Drunk. Move to the Frat House., Home is where the beer is
-active,Lick Someone,Self,lizard-tongue,"You know, lick someone.", XXXX TODO XXXXX
-active,Lovahs,All,charm,Everyone in a relationship drinks:beer:.,XXXX TODO XXXX
-active,Lone Wolf,All,love-howl,Everyone who is single drinks:beer:.,XXXX TODO XXXXX
+active,Lick Someone,Self,lizard-tongue,"You know, lick someone.",EWWWWWW
+active,Lovahs,All,charm,Everyone in a relationship drinks:beer:.,Get a room
+active,Lone Wolf,All,love-howl,Everyone who is single drinks:beer:.,I'm single because I want to be
 active,Get Inked,Self,quill-ink,"Get someone to draw on you. Who, Where and What: You get to choose two, they choose the other.","Trust me, you don't want to leave out 'Where'."
 active,Pickup,Self,heart-inside,"Use a pickup line on someone.",Are you my little toe? Because I want to bang you on the sofa
 active,Four Eyes,All,spectacles,Drink:beer: if you wear glasses.,XXXXXX TODO XXXXX
@@ -41,7 +41,7 @@ active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, e
 active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve materials:material: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
 active,Chicks before Dicks,All,vine-flower,All male players drink:beer:, Lasses before Asses
-active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,XXXXXX TODO XXXX
+active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,Back from the dead
 active,My Turn!,Self,trade,"Swap a status card with another player. If you can't, drink:beer: and draw again!",That one looks way nicer than mine
 active,Your Lucky Day,Self,horseshoe,"Draw an action card, gain it's cost in materials:material: and roll the dice again!","Well, that went better than expected"
 active,Charity,Self,prayer,"Give a material:material: to each player. Everyone who reveives one, drinks:beer:.",Generosity is my defining trait
@@ -56,13 +56,13 @@ active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and
 active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully.",XXXX TODO XXXX
 active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
 active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
-active,Reset,All,clockwork,"Shuffle all active status cards back into their decks.",XXXXXXX TODO XXXXXX
+active,Reset,All,clockwork,"Shuffle all active status cards back into their decks.",Back to square one
 active,Helping Hand,Self,shaking-hands,"All players agree on who is most drunk. You drink that players share until the end of their next turn.",I PITY THE FOOL
 active,Selfiieeee,Self,photo-camera,"Take a selfie together with an object of the groups choosing. Send it to the 11th person of the opposite sex in your contacts from top or bottom. Your choice.","... Eight, Nine, Ten, Shit"
-active,Nickname,Self,invisible,"Give someone a nickname. Anyone who fails to call that person by their new name drinks:beer:.",XXXX TODO XXXX
+active,Nickname,Self,invisible,"Give someone a nickname. Anyone who fails to call that person by their new name drinks:beer:.",Sqiggles McSmoochyface
 active,Weapons Trade,Self,switch-weapon,"Trade an action card with another player of your choice. Both of you choose their own card to trade away. Whoever receives the card with the higher cost drinks:beer: the costs difference.",XXXX TODO XXXX
 active,Treasure Map,Self,treasure-map,"Move forward three squares and look for treasure. You find 4 materials:material:.",X marks the spot
 active,Spin the Bottle,Self,spiral-bottle,"Play a round of Truth or Dare.","I dare you, I double dare you motherfucker"
 active,Pablo Picasso,Self,palette,"Paint a picture of someone! Sell it to someone for materials:material:.","Draw me like one of your french girls"
 active,Makeover,Self,gluttony,"Swap an article of clothing with someone else.",So pretty
-active,Pantomime,Self,puppet,"You have to pantomime a word whispered to you by the person to your right. You, and whoever guesses it, gains three materials:material:.",XXX TODO XXX 
+active,Pantomime,Self,puppet,"You have to pantomime a word whispered to you by the person to your right. You, and whoever guesses it, gains five materials:material:.",Dance for me
