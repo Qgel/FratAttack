@@ -24,6 +24,7 @@ status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TO
 status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
 status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you rolled.",XXXX TODO XXXX
 status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
+status,Ring Ring,Self,ringing-bell,"Turn up the volume on your phone. Whenever it rings, drink:drink:.",XXXX TODO XXXXX
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Steal a material:material: from each player you win against. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
 active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 materials:material:., XXXXX TODO XXXXX
@@ -66,3 +67,9 @@ active,Spin the Bottle,Self,spiral-bottle,"Play a round of Truth or Dare.","I da
 active,Pablo Picasso,Self,palette,"Paint a picture of someone! Sell it to someone for materials:material:.","Draw me like one of your french girls"
 active,Makeover,Self,gluttony,"Swap an article of clothing with someone else.",So pretty
 active,Pantomime,Self,puppet,"You have to pantomime a word whispered to you by the person to your right. You, and whoever guesses it, gains five materials:material:.",Dance for me
+active,Denunciation,All,police-target,"Everyone points at another player. Whoever has the most persons pointing at him, drinks:beer: twice.",Screw you!
+active,Out of Juice,All,battery-25,"The player with the least amount in their drink finishes their drink.","Hit me again, barkeep"
+active,Concoction,All,bottle-vapors,"Mix a cocktail from whatever you want. Everyone (including yourself) drinks from it until it is gone.","Zombie ain't got nothing on this"
+active,One Cup,All,coffee-mug,"Choose two players who have to simultaneously drink from the same cup.","Two drunks, one cup"
+active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, they have to drink:drink:. If it misses, you drink:drink:.",Fire in the hole
+active,System Overload,Self,circuitry,"Drink:drink: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
