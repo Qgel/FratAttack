@@ -16,11 +16,18 @@ Art:
   width: 515
   height: 515
 
-Type:
+Type_Icon:
   x: 710
-  y: 1010
+  y: 985
   width: 95
   height: 95
+
+Type:
+  extends: Type_Icon
+  y: += 95
+  align: center
+  valign: top
+  font: DejaVu Sans Bold 16
 
 text:
   color: '#ECF5FD'

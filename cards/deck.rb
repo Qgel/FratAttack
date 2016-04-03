@@ -56,7 +56,8 @@ Squib::Deck.new(cards: data['name'].size, layout: 'action.yml', dpi: 450) do
 
   text str: data['target'], layout: :Target, color: colors['icon']
 
-  svg data: data['type'].map{|t| images["type_#{t}"]}, layout: :Type
+  svg data: data['type'].map{|t| images["type_#{t}"]}, layout: :Type_Icon
+  text str: data['type'].map{|t| t.capitalize}, layout: :Type, color: data['type'].map{|t| colors[t]}
 
   # Cost icons for action cards
   for n in 1..3
