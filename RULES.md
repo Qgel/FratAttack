@@ -6,7 +6,7 @@ In _FratAttack_, it's your goal to save humanity from the evil aliens that have 
 ##Preparation
 
 Sort the cards into two piles: Those which are event cards (they have an icon that says 'Event' in the top left) and those that are not.
-Shuffle both piles, and place them on the corresponding spaces on the board.
+Shuffle both piles, and place them face down on the corresponding spaces on the board.
 
 Each player puts their figure on a _Frat House_ square of their choice. The player who is least drunk starts with the first turn.
 
