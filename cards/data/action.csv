@@ -44,3 +44,4 @@ Remove a status card.",Winner winner chicken dinner
 active,Lasso,3,Enemy,lasso,"Swap action cards with a player of your choice",Just one of it's many uses
 active,Thunderstorm,4,Self,lightning-storm,"Give away all your status cards to the other players.",Begone
 active,Trap,3,Self,tripwire,"Can be played when another player targets you. Whatever effect would have applied to you, now applies to that player instead.","It's a trap!"
+active,Scan,2,All,radar-sweep,"All enemy players must reveal their action cards.","Leave no stone unturned"
