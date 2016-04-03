@@ -75,3 +75,4 @@ active,One Cup,All,coffee-mug,"Choose two players who have to simultaneously dri
 active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, they have to drink:drink:. If it misses, you drink:drink:.",Fire in the hole
 active,System Overload,Self,circuitry,"Drink:drink: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
 active,Ouroboros,Self,ouroboros,"Replay the last event card.",XXX TODO XXX
+active,Russian Roulette,All,revolver,"Spin a bottle. Whoever it points to drinks a shot:shot:.",R NbRH
