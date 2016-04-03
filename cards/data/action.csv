@@ -11,7 +11,7 @@ status, Drunken Master, 2, Any, monk-face, You get double the normal amount of m
 status, Risky Business, 3, Any,life-in-the-balance,"While holding this card, drink only half the beer:beer: but double the shots:shot:.","No risk, no fun"
 status, Empty Hourglass, 2, Any, empty-hourglass,"If you finish your drink during your own turn, you can choose to go again instead of any other rewards you might have recieved from finishing it.", The agony of choice
 status, Drinking Buddy, 3, Enemy, ages,"The enemy who holds this card always drinks half (rounded up) of whatever you drink.",It's always nice to have someone to drink with
-status, The Bomb, 5, Any, time-bomb,"Explodes after five rounds. When it does, drink three shots:shot:.",They set us up the bomb
+status, The Bomb, 5, Any, time-bomb,"Explodes after five rounds. When it does, drink two shots:shot: and remove this card.",They set us up the bomb
 status, Twin-Headed Dragon, 3, Any, double-dragon,"Double everything you are required to drink. For each extra shot:shot: drunk that way, you gain five materials:material:. For every drink:beer:, you gain one material:material:.","Twice the fun, double the trouble"
 status, The Leech, 3, Enemy, leeching-worm,"Give to an enemy. As long as they hold this card, you drink:beer: half their share (rounded down) and leech half the materials:material: whenever they gain any.",Suck em dry
 status, Diplomacy, 3, Any, tied-scroll,"You may choose between drinking shots:shot: and drinks:beer:. The exchange rate is 5:beer: = 1:shot:.","There's options?!"
