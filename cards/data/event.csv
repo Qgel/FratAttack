@@ -41,7 +41,7 @@ active,The Meltingpot,Self,cauldron,"Take a drink from everyones cup. You get a 
 active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, everything on that card is doubled.",Bwwwwaaaaaaaaaak Bwaak Bwwaak Bwaaak Bwwaaaaaaak
 active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve materials:material: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
-active,Chicks before Dicks,All,vine-flower,All male players drink:beer:, Lasses before Asses
+active,Chicks before Dicks,All,vine-flower,All male players drink:beer:., Lasses before Asses
 active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,Back from the dead
 active,My Turn!,Self,trade,"Swap a status card with another player. If you can't, drink:beer: and draw again!",That one looks way nicer than mine
 active,Your Lucky Day,Self,horseshoe,"Draw an action card, gain it's cost in materials:material: and roll the dice again!","Well, that went better than expected"
