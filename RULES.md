@@ -12,7 +12,7 @@ Each player puts their figure on a _Frat House_ square of their choice. The play
 
 ## Gameplay
 
-Players take turns rolling a die and moving on the board. Whenever your figures moves to a square (whether it's because it is your turn, or because the game told you to move in some other way), the moved player has to do what the square he landed on says. Squares fall into three categories.
+Players take turns rolling a die and moving on the board. Whenever your figures moves to a square (whether it's because it is your turn, or because the game told you to move in some other way), the moved player has to do what the square he landed on says. Squares fall into one of three categories.
 
 * Some squares may simply tell the player to drink or receive some materials. Do that.
 * When passing the _Frat House_ you can trade your materials in for weapons. You need 20 materials for one weapon. If you stop exactly at the _Frat House_, all other players drink.
