@@ -15,6 +15,7 @@ status, The Bomb, 5, Any, time-bomb,"Explodes after five rounds. When it does, d
 status, Twin-Headed Dragon, 3, Any, double-dragon,"Double everything you are required to drink. For each extra shot:shot: drunk that way, you gain five materials:material:. For every drink:beer:, you gain one material:material:.","Twice the fun, double the trouble"
 status, The Leech, 3, Enemy, leeching-worm,"Give to an enemy. As long as they hold this card, you drink:beer: half their share (rounded down) and leech half the materials:material: whenever they gain any.",Suck em dry
 status, Diplomacy, 3, Any, tied-scroll,"You may choose between drinking shots:shot: and drinks:beer:. The exchange rate is 5:beer: = 1:shot:.","There's options?!"
+status, Thief, 4, Self, cowled,"Whenever you land on a square with a player on it, you steal two materials:material: from that player.",XXX TODO XXX
 active, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
 active, Drunken Stumble, 0, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
 active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", Let's be friends
@@ -26,7 +27,7 @@ active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's
 active, Hoarder, 2, Any, gold-stack,"Make a player drink:beer: equal to the combined cost of all cards he holds in his hands. At most, they player has to finish their drink.",The rich get richer. And drunker.
 active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowlege is power
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card an play it.",ZAPP
-active, Thief, 5, Enemy, snatch, Steal half of someones materials:material:.,You won't even notice they're gone
+active, Snatch, 5, Enemy, snatch, Steal half of someones materials:material:.,You won't even notice they're gone
 active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their materials:material:.,This sucks. 
 active, The Void, 10, All, wind-hole,"Everyone loses all their materials:material: (including yourself), unless they finish their drink","Blackness will come, one way or the other"
 active, Sprint, 1, Self, sprint, Move twice the distance on your next dice roll., The Flash
