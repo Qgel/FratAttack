@@ -1,7 +1,7 @@
 type,name,target,art,description,flavor
 status,The Fool,Self,jester-hat,You may only use your non-dominant hand as long as you hold this card.,Don't you dare to spill your drink on this game!
 status,Grandpa,Self,toad-teeth,You may not show your teeth while holding this card.,Grandpa lost his dentures
-status,Caveman,Self,muscle-fat,"As long as you hold this card, you can only say three words at a time.",,"Beer ... is ... good."
+status,Caveman,Self,muscle-fat,"As long as you hold this card, you can only say three words at a time.","Beer ... is ... good."
 status,Twitter,Self,bird-twitter,"While holding this card you must start every sentence with 'hashtag'.",#AwesomeGame #Wasted
 status,Knifes Edge,???,curvy-knife,"Ask everyone to come up with any rule for this status card. Don't read the rest of this card out loud until they have.
 Done? The card applies to the player who came up with the rule!",Is it worth the risk?
