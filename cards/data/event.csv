@@ -77,3 +77,4 @@ active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, the
 active,System Overload,Self,circuitry,"Drink:drink: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
 active,Ouroboros,Self,ouroboros,"Replay the last event card.",XXX TODO XXX
 active,Russian Roulette,All,revolver,"Spin a bottle. Whoever it points to drinks a shot:shot:.",R NbRH
+active,Beer Police,All,police-officer-head,"The person that is least drunk, as voted by the group, drinks:beer:.","Son do you know what I'm stopping you for?"
