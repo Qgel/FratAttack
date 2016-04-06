@@ -26,6 +26,7 @@ status,Trust,Self,blindfold,"You roll dice blind. The other players tell you wha
 status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
 status,Ring Ring,Self,ringing-bell,"Turn up the volume on your phone. Whenever it rings, drink:beer:.",XXXX TODO XXXXX
 status,Question Master,Self,_question-master,"Whenever another player answer a question you have asked, that player must drinl:beer:.",XXXX TODO XXX
+status,Wrong Way,return-arrow,"While this card is active, you can only move backwards on the board and in real life.",XXXX TODO XXXX
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Steal a material:material: from each player you win against. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
 active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 materials:material:., XXXXX TODO XXXXX
