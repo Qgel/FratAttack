@@ -2,7 +2,7 @@ type,name,cost,target,art,description,flavor
 status, Broken Shield, 2, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by two-thousand cuts.
 status, St. Patricks Day, 3, Enemy, _clover,"Aquire at least 3 green objects and protect them from the other players. Drink:beer: everytime an item is stolen.", I'll be irish in a few beers.  
 status, Slow Motion, 2, Any, tortoise, You only move at half speed (rounded up)., Slow and steady wins less of a hangover.
-status, Clone Bay, 4, Any,_cryo-chamber,"Replay any previously played action or event card.", Insanity: Doing the same thing over and over again and expecting different results
+status, Clone Bay, 4, Any,_cryo-chamber,"Replay any one previously played action or event card of your choice.", Insanity: Doing the same thing over and over again and expecting different results
 status, Holy Shield, 3, Any, winged-shield,"Any time a card is played against you, you may drink:shot: to cancel the cards effect.", But at what cost?
 status, Light Feet, 2, Any, wingfoot,"When moving to a square, you only trigger it's action if you rolled the dice to get there.",Like wearing nothign at all
 status, Piggy Bank, 4, Any, piggy-bank, You drink:beer: any cards cost instead of paying it,"Disregard sobriety, acquire currency"
@@ -16,12 +16,12 @@ status, Twin-Headed Dragon, 3, Any, double-dragon,"Double everything you are req
 status, The Leech, 3, Enemy, leeching-worm,"Give to an enemy. As long as they hold this card, you drink:beer: half their share (rounded down) and leech half the materials:material: whenever they gain any.",Suck em dry
 status, Diplomacy, 3, Any, tied-scroll,"You may choose between drinking shots:shot: and drinks:beer:. The exchange rate is 5:beer: = 1:shot:.","There's options?!"
 status, Thief, 4, Self, cowled,"Whenever you land on a square with a player on it, you steal two materials:material: from that player.",XXX TODO XXX
-status, Captain, 2, Self, wooden-pegleg,"Whenever you land on a square with a player on it, you can make that player drinK:beer:.",XXX TODO XXX
+status, Captain, 2, Self, wooden-pegleg,"Whenever you land on a square with a player on it, you can make that player drink:beer:.",Yo Ho and a bottle of rum
 active, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
 active, Drunken Stumble, 0, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
 active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", Let's be friends
 active, Peer Pressure, 3, All, minions,Force everyone to take an action that you need to perform as well., Peer pressure? More like beer pressure!
-active, Swap, 3, Enemy, stone-throne, Swap seats and your spot in the playing order with a player of your choice., COME OVER HERE!
+active, Swap, 3, Enemy, stone-throne, Swap everything (place, drink, materials, hand and status cards) except weapons with a player of your choice., COME OVER HERE!
 active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has to play one of his action cards., I hope this doesn't backfire.
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
 active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
@@ -29,8 +29,8 @@ active, Hoarder, 2, Any, gold-stack,"Make a player drink:beer: equal to the comb
 active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowlege is power
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card an play it.",ZAPP
 active, Snatch, 5, Enemy, snatch, Steal half of someones materials:material:.,You won't even notice they're gone
-active, Black Hole, 0,Enemy,vortex,Both you and your taret discard half their materials:material:.,This sucks. 
-active, The Void, 10, All, wind-hole,"Everyone loses all their materials:material: (including yourself), unless they finish their drink","Blackness will come, one way or the other"
+active, Black Hole, 0,Enemy,vortex,Both you and your target discard half their materials:material:.,This sucks. 
+active, The Void, 6, All, wind-hole,"Everyone loses all their materials:material: (including yourself), unless they finish their drink","Blackness will come, one way or the other"
 active, Sprint, 1, Self, sprint, Move twice the distance on your next dice roll., The Flash
 active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, Headshot!"
 active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
@@ -43,7 +43,7 @@ active,Pocket Ace,0,Self,ace,"Choose one:
 Gain five materials:material:.
 Play an action card for free.
 Remove a status card.",Winner winner chicken dinner
-active,Lasso,3,Enemy,lasso,"Swap action cards with a player of your choice",Just one of it's many uses
+active,Lasso,3,Enemy,lasso,"Swap action cards in hand with a player of your choice",Just one of it's many uses
 active,Thunderstorm,4,Self,lightning-storm,"Give away all your status cards to the other players.",Begone
 active,Trap,3,Self,tripwire,"Can be played when another player targets you. Whatever effect would have applied to you, now applies to that player instead.","It's a trap!"
 active,Scan,2,All,radar-sweep,"All enemy players must reveal their action cards.","Leave no stone unturned"
