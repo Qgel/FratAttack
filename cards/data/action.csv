@@ -48,3 +48,4 @@ active,Thunderstorm,4,Self,lightning-storm,"Give away all your status cards to t
 active,Trap,3,Self,tripwire,"Can be played when another player targets you. Whatever effect would have applied to you, now applies to that player instead.","It's a trap!"
 active,Scan,2,All,radar-sweep,"All enemy players must reveal their action cards.","Leave no stone unturned"
 active,Buyout,0,Self,shop,"Immediately trade 20 materials:material: for one weapon.",XXX TODO XXX
+active,Blitzkrieg,1,Self,lightning-branches,"It's now your turn.",Mein Turn
