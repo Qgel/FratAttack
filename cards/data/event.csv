@@ -8,21 +8,21 @@ Done? The card applies to the player who came up with the rule!",Is it worth the
 status,Knifes Edge,???,curvy-knife,"Ask everyone to come up with any rule for this status card. Don't read the rest of this card out loud until they have.
 Done? The effect that was chosen for this status card applies to you!",Is it worth the risk?
 status,Wear it Backwards,Self,shadow-follower,"While holding this card, wear an article of clothing backwards.",Something's wrong..
-status,Sherrif,Self,law-star,"While you hold this card, other players may try to cheat when being forced to drink. If you notice, they drink double. If you don't, you drink what they left out.",The law is the law
+status,Sheriff,Self,law-star,"While you hold this card, other players may try to cheat when being forced to drink. If you notice, they drink double. If you don't, you drink what they left out.",The law is the law
 status,Lawyer,Self,scales,Make up a rule. It is active as long as this card is in play.,Objection!
 status,Merge,Self,telepathy,"Merge with the player to your right, causing you to function as a single player. You share all statuses and actions always targeted both of you. On your turn, cast dice once and move both figures.",Who of us is the evil twin?
 status,The Plague,Self,poison-gas,Whoever holds the plague drinks double. Moves to the left after each round.,It's contagious
 status,Amnesia,Self,drowning,"You cannot say any players name, including your own. If you do, drink:beer:.","Shit, where did I leave my keys?"
 status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, drink:beer:",Just like when you were little
-status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell", FUCK YEAH CAPSLOCK
-status,Piggy Bank,Enemy,piggy-bank,"Choose a player. Whenever that player curses, you get a material:material:.",Money in the bank
+status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell.", FUCK YEAH CAPSLOCK
+status,Curse Jar,Enemy,skull-in-jar,"Choose a player. Whenever that player curses, you get a material:material:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain materials, you gain an additional material:material: but you also have to drink:beer:.",Isn't that a shiny little thing
 status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one material:material:.",XXXXXX TODO XXXXXX
 status,Ghost,Self,ghost,"All other players ignore you for anything not directly related to the game as long as this card is active.",Haunting
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
 status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TODO XXXX
-status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts. If it's underhanded and they don't notice, they drink:beer:. If they notice, you drink:beer:. True compliments are safe.",You are smarter than you look
-status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you rolled.",XXXX TODO XXXX
+status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts.",You are smarter than you look
+status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you've rolled.",XXXX TODO XXXX
 status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
 status,Ring Ring,Self,ringing-bell,"Turn up the volume on your phone. Whenever it rings, drink:beer:.",XXXX TODO XXXXX
 status,Question Master,Self,_question-master,"Whenever another player answer a question you have asked, that player must drinl:beer:.",XXXX TODO XXX
@@ -41,7 +41,7 @@ active,Something Cute?,Self,lock-spy,"Guess the color of everyones underwear. Fo
 active,Thousand-Yard Stare,Self,angry-eyes,Enter a staring contest with the player to the left. Whoever wins gets three materials:material:. The loser drinks:beer: three.,"War, war never changes"
 active,The Meltingpot,Self,cauldron,"Take a drink from everyones cup. You get a material:material: for every drink you finish.",Will it blend?
 active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, everything on that card is doubled.",Bwwwwaaaaaaaaaak Bwaak Bwwaak Bwaaak Bwwaaaaaaak
-active,Last Ditch Effort,Self,heart-beats,"You may remove any number of articles of clothings. You recieve materials:material: equal to the fibonnacci number of removed clothes. Socks only count once.","1, 1, 2, 3, 5, 8, 13, 21, 34, 55"
+active,Mathmagician,Self,magic-trick,"You may remove any number of articles of clothings. You recieve materials:material: equal to the number of removed clothes squared. Socks only count once.","I can make your clothes disappear"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
 active,Chicks before Dicks,All,vine-flower,All male players drink:beer:., Lasses before Asses
 active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,Back from the dead
@@ -54,9 +54,9 @@ active,Beernado,Self,tornado,Spin as fast as you can for 10 seconds. Gain a mate
 active,Dirty Mind,Self,brain-freeze,"If you've ever fantasized about someone who is playing, drink a shot:shot:. If you tell us who it is, you can make it a drink:beer: instead. Significant others don't count!",No details please
 active,Profit,Self,profit,"Get a material:material: from each player. For each recieved material, drink:beer: once.",I steal from the poor and give to myself
 active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, gain three materials:material:","They may take our lives, but they'll never take... OUR FREEDOM"
-active,Witch Hunt,Any,witch-flight,"Remove all status cards from a player of you choosing. Drink:beer: for each removed card.","Bloody Mary, Bloody Mary, Bloody Mary"
+active,Witch Hunt,Any,witch-flight,"Remove all active status cards from a player of you choosing. Drink:beer: for each removed card.","Bloody Mary, Bloody Mary, Bloody Mary"
 active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in materials:material:.",I expected it to be booby-trapped
-active,Truth Serum,Self,drink-me,"Answer a question asked of you by the group truthfully.",XXXX TODO XXXX
+active,Truth Serum,Self,drink-me,"Answer a question asked by the group truthfully.",XXXX TODO XXXX
 active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
 active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
 active,Reset,All,clockwork,"Shuffle all active status cards back into their decks.",Back to square one
@@ -73,8 +73,8 @@ active,Denunciation,All,police-target,"Everyone points at another player. Whoeve
 active,Out of Juice,All,battery-25,"The player with the least amount in their drink finishes their drink.","Hit me again, barkeep"
 active,Concoction,All,bottle-vapors,"Mix a cocktail from whatever you want. Everyone (including yourself) drinks from it until it is gone.","Zombie ain't got nothing on this"
 active,One Cup,All,coffee-mug,"Choose two players who have to simultaneously drink from the same cup.","Two drunks, one cup"
-active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, they have to drink:drink:. If it misses, you drink:drink:.",Fire in the hole
-active,System Overload,Self,circuitry,"Drink:drink: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
+active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, they have to drink:beer:. If it misses, you drink:beer:.",Fire in the hole
+active,System Overload,Self,circuitry,"Drink:beer: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
 active,Ouroboros,Self,ouroboros,"Replay the last event card.",XXX TODO XXX
 active,Russian Roulette,All,revolver,"Spin a bottle. Whoever it points to drinks a shot:shot:.",R NbRH
 active,Beer Police,All,police-officer-head,"The person that is least drunk, as voted by the group, drinks:beer:.","Son do you know what I'm stopping you for?"
