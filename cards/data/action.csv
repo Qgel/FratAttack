@@ -4,12 +4,12 @@ status, St. Patricks Day, 3, Enemy, _clover,"Aquire at least 3 green objects and
 status, Slow Motion, 2, Any, tortoise, You only move at half speed (rounded up)., Slow and steady wins less of a hangover.
 status, Clone Bay, 4, Any,_cryo-chamber,"Replay any one previously played action or event card of your choice.", Insanity: Doing the same thing over and over again and expecting different results
 status, Holy Shield, 3, Any, winged-shield,"Any time a card is played against you, you may drink:shot: to cancel the cards effect.", But at what cost?
-status, Light Feet, 2, Any, wingfoot,"When moving to a square, you only trigger it's action if you rolled the dice to get there.",Like wearing nothign at all
+status, Light Feet, 2, Any, wingfoot,"When moving to a square, you only trigger it's action if you rolled the dice to get there.",Like wearing nothing at all
 status, Piggy Bank, 4, Any, piggy-bank, You drink:beer: any cards cost instead of paying it,"Disregard sobriety, acquire currency"
 status, Money Equals Power, 4, Any, money-stack,"For every 10 materials:material: you have, you pay one less when playing a card", An offer you can't refuse.
 status, Drunken Master, 2, Any, monk-face, You get double the normal amount of materials:material: from finishing your drink,"I've trained my entire life for this"
 status, Risky Business, 3, Any,life-in-the-balance,"While holding this card, drink only half the beer:beer: but double the shots:shot:.","No risk, no fun"
-status, Empty Hourglass, 2, Any, empty-hourglass,"If you finish your drink during your own turn, you can choose to go again instead of any other rewards you might have recieved from finishing it.", The agony of choice
+status, Empty Hourglass, 2, Any, empty-hourglass,"If you finish your drink during your own turn, you can choose to go again instead of any other rewards you might have received from finishing it.", The agony of choice
 status, Drinking Buddy, 3, Enemy, ages,"The enemy who holds this card always drinks half (rounded up) of whatever you drink.",It's always nice to have someone to drink with
 status, The Bomb, 5, Any, time-bomb,"Explodes after five rounds. When it does, drink two shots:shot: and remove this card.",They set us up the bomb
 status, Twin-Headed Dragon, 3, Any, double-dragon,"Double everything you are required to drink. For each extra shot:shot: drunk that way, you gain five materials:material:. For every drink:beer:, you gain one material:material:.","Twice the fun, double the trouble"
@@ -26,18 +26,18 @@ active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has 
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
 active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
 active, Hoarder, 2, Any, gold-stack,"Make a player drink:beer: equal to the combined cost of all cards he holds in his hands. At most, they player has to finish their drink.",The rich get richer. And drunker.
-active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowlege is power
+active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowledge is power
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card and play it.",ZAPP
 active, Snatch, 5, Enemy, snatch, Steal half of someones materials:material:.,You won't even notice they're gone
 active, Black Hole, 0,Enemy,vortex,Both you and your target discard half their materials:material:.,This sucks. 
 active, The Void, 6, All, wind-hole,"Everyone loses all their materials:material: (including yourself), unless they finish their drink","Blackness will come, one way or the other"
 active, Sprint, 1, Self, sprint, Move twice the distance on your next dice roll., The Flash
-active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,,"BOOOM, Headshot!"
+active, Snipe, 2, Enemy, gunshot, Force a player to finish their drink,"BOOOM, Headshot!"
 active, Challenge Me!, 1,Self, juggler,"The other players agree on a challenge and an amount in drinks:beer:. If you fail or refuse, you drink the amount. If you succeed, each of them drinks it.", XXXXXX TODO XXXX
 active, Unstable Orbit, 3, All, solar-system,"Swap all status cards in clockwise direction",Pluto is a planet
 active, Purge, 3, Self, earth-crack,"Remove all of your status cards",A new start
 active, Childhood Memories, 3, Any, bed,"The chosen player must jump up and down enthusiastically. Then they play the action of the square they are currently standing on again.",You little rascal
-active, Pipe, 2, Any, warp-pipe,"Move to any enemies square or force one enemy to move to yours","It's a me"
+active, Pipe, 2, Any, warp-pipe,"Move to any enemy's square or force one enemy to move to yours","It's a me"
 active, Tiny Teleport, 3, Self, teleport,"Move to a square of your choice that's within five squares of you in either direction","Beam me up, Scotty"
 active,Pocket Ace,0,Self,ace,"Choose one:
 Gain five materials:material:.
