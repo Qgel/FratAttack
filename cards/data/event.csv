@@ -17,15 +17,15 @@ status,The Floor is Lava,Self,volcano,"You cannot touch the floor. If you do, dr
 status,CAPSLOCK,Self,shouting,"While holding this card, you can only yell.", FUCK YEAH CAPSLOCK
 status,Curse Jar,Enemy,skull-in-jar,"Choose a player. Whenever that player curses, you get a material:material:.",Money in the bank
 status,Cursed Scarab,Self,gold-scarab,"Whenever you gain materials, you gain an additional material:material: but you also have to drink:beer:.",Isn't that a shiny little thing
-status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one material:material:.",XXXXXX TODO XXXXXX
+status,The Good Fairy,Self,fairy,"You fetch everyones drinks while holding this card. For each drink you fetch for someone else, you gain one material:material:.","Hey, listen!"
 status,Ghost,Self,ghost,"All other players ignore you for anything not directly related to the game as long as this card is active.",Haunting
-status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helment. Keep it on your head as long as this card is active.",Better safe than sorry
+status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helmet. Keep it on your head as long as this card is active.",Better safe than sorry
 status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk",XXXX TODO XXXX
 status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts.",You are smarter than you look
 status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you've rolled.",XXXX TODO XXXX
 status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
 status,Ring Ring,Self,ringing-bell,"Turn up the volume on your phone. Whenever it rings, drink:beer:.",XXXX TODO XXXXX
-status,Question Master,Self,_question-master,"Whenever another player answer a question you have asked, that player must drinl:beer:.",XXXX TODO XXX
+status,Question Master,Self,_question-master,"Whenever another player answer a question you have asked, that player must drink:beer:.",XXXX TODO XXX
 status,Wrong Way,Self,return-arrow,"While this card is active, you can only move backwards on the board and in real life.",XXXX TODO XXXX
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Steal a material:material: from each player you win against. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
@@ -46,9 +46,9 @@ active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before H
 active,Chicks before Dicks,All,vine-flower,All male players drink:beer:., Lasses before Asses
 active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,Back from the dead
 active,My Turn!,Self,trade,"Swap a status card with another player. If you can't, drink:beer: and draw again!",That one looks way nicer than mine
-active,Your Lucky Day,Self,horseshoe,"Draw an action card, gain it's cost in materials:material: and roll the dice again!","Well, that went better than expected"
-active,Charity,Self,prayer,"Give a material:material: to each player. Everyone who reveives one, drinks:beer:.",Generosity is my defining trait
-active,Challenge Accepted,Self,william-tell,"The other players agree on a challenge and reward in materials:material:. If you fulfill the challenge, you recieve the materials as a reward.",A challenger appears
+active,Your Lucky Day,Self,horseshoe,"Draw an action card, gain its cost in materials:material: and roll the dice again!","Well, that went better than expected"
+active,Charity,Self,prayer,"Give a material:material: to each player. Everyone who receives one, drinks:beer:.",Generosity is my defining trait
+active,Challenge Accepted,Self,william-tell,"The other players agree on a challenge and reward in materials:material:. If you fulfill the challenge, you receive the materials as a reward.",A challenger appears
 active,ANGRY TRAIN,Self,railway,"Make an angry train sound. Have a material:material: for your troubles.",Angry Angry Amtrak
 active,Beernado,Self,tornado,Spin as fast as you can for 10 seconds. Gain a material:material: for every two spins.,"You spin me right round baby right round, like a record baby"
 active,Dirty Mind,Self,brain-freeze,"If you've ever fantasized about someone who is playing, drink a shot:shot:. If you tell us who it is, you can make it a drink:beer: instead. Significant others don't count!",No details please
