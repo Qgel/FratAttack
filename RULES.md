@@ -1,7 +1,7 @@
 #Rules
 
 In _FratAttack_, it's your goal to save humanity from the evil aliens that have invaded your fraternity. For that, you must collect alien materials and construct the weapons used to destroy them!
- The first player to reach a set amount of weapons wins the game.
+ The first player to reach three weapons wins the game.
 
 ##Preparation
 
