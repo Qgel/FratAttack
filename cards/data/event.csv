@@ -41,7 +41,7 @@ active,Something Cute?,Self,lock-spy,"Guess the color of everyones underwear. Fo
 active,Thousand-Yard Stare,Self,angry-eyes,Enter a staring contest with the player to the left. Whoever wins gets three materials:material:. The loser drinks:beer: three.,"War, war never changes"
 active,The Meltingpot,Self,cauldron,"Take a drink from everyones cup. You get a material:material: for every drink you finish.",Will it blend?
 active,Chicken,Self,roast-chicken,"You may draw another event card. If you do, everything on that card is doubled.",Bwwwwaaaaaaaaaak Bwaak Bwwaak Bwaaak Bwwaaaaaaak
-active,Mathmagician,Self,magic-trick,"You may remove any number of articles of clothings. You recieve materials:material: equal to the number of removed clothes squared. Socks only count once.","I can make your clothes disappear"
+active,Mathmagician,Self,magick-trick,"You may remove any number of articles of clothings. You recieve materials:material: equal to the number of removed clothes squared. Socks only count once.","I can make your clothes disappear"
 active,Bros before Hos,All,biceps,All female players drink:beer:.,Poles before Holes
 active,Chicks before Dicks,All,vine-flower,All male players drink:beer:., Lasses before Asses
 active,Resurrection,Self,deadly-strike,Play any event card from the discard pile.,Back from the dead
@@ -77,9 +77,9 @@ active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, the
 active,System Overload,Self,circuitry,"Drink:beer: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
 active,Ouroboros,Self,ouroboros,"Replay the last event card.",XXX TODO XXX
 active,Russian Roulette,All,revolver,"Spin a bottle. Whoever it points to drinks a shot:shot:.",R NbRH
-active,Beer Police,All,police-officer-head,"The person that is least drunk, as voted by the group, drinks:beer:.","Son do you know what I'm stopping you for?"
+active,Beer Police,All,_police-officer-head,"The person that is least drunk, as voted by the group, drinks:beer:.","Son do you know what I'm stopping you for?"
 active,Stay in Contact,Self,mailbox,"The person to your left types a message to any of your contacts on your phone, but doesn't send it. Read the message out loud, and either send it or drink a shot:shot:.",XXX TODO XXX
 active,Rich Bitch,All,banknote,"The person with the most money drinks:beer:.",Dollar Dollar bills yall
 active,Paranoia,Self,paranoia,"Whisper a question to the player to your left, which can be answered with the name of a player. The named player may drink a shot:shot: to reveal the question.","Which player is dressed the sluttiest?"
-active,Motorboat,speed-boat,"Guess the cup size of the first girl to your left. If you are correct, they drink:beer:. If you are right, you drink:beer:.",There are only wrong answers
-active,Size does Matter,"The group decides which guy has the smalles dick. That guy gets five materials:material:".,"""All the small things"""
+active,Motorboat,Self,_speed-boat,"Guess the cup size of the first girl to your left. If you are correct, they drink:beer:. If you are right, you drink:beer:.",There are only wrong answers
+active,Size does Matter,All,rhinoceros-horn,"The group decides which guy has the smalles dick. That guy gets five materials:material:.r","""All the small things"""
