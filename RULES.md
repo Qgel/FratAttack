@@ -21,7 +21,7 @@ Players take turns rolling a die and moving on the board. Whenever your figures 
 ## Cards
 Each card can be either an _active_ or a _status_ card, indicated by an icon in the lower right corner of the card. 
 The effect of an active card are applied once when the card is played. Status cards are placed in front of players and apply as long as they remain there.
-The effect a card has described as a text on the card.
+The effect a card has is described as text on the card.
 
 Cards are put into two piles on the board based on whether they are _Event_ or _Action_ cards. 
 
