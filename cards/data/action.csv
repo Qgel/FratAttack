@@ -3,7 +3,7 @@ status, Broken Shield, 2, Self, broken-shield, Drink only half the amount (round
 status, St. Patricks Day, 3, Enemy, _clover,"Aquire at least 3 green objects and protect them from the other players. Drink:beer: everytime an item is stolen.", I'll be irish in a few beers.  
 status, Slow Motion, 2, Any, tortoise, You only move at half speed (rounded up)., Slow and steady wins less of a hangover.
 status, Clone Bay, 4, Any,_cryo-chamber,"Replay any one previously played action or event card of your choice.", Insanity: Doing the same thing over and over again and expecting different results
-status, Holy Shield, 3, Any, winged-shield,"Any time a card is played against you, you may drink:shot: to cancel the cards effect.", But at what cost?
+status, Holy Shield, 3, Any, winged-shield,"For any card, you may drink a shot:shot: to cancel the cards effect.", But at what cost?
 status, Light Feet, 2, Any, wingfoot,"When moving to a square, you only trigger it's action if you rolled the dice to get there.",Like wearing nothing at all
 status, Piggy Bank, 4, Any, piggy-bank, You drink:beer: any cards cost instead of paying it,"Disregard sobriety, acquire currency"
 status, Money Equals Power, 4, Any, money-stack,"For every 10 materials:material: you have, you pay one less when playing a card", An offer you can't refuse.
