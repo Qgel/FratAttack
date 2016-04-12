@@ -29,7 +29,7 @@ status,Question Master,Self,_question-master,"Whenever another player answer a q
 status,Wrong Way,Self,return-arrow,"While this card is active, you can only move backwards on the board and in real life.",XXXX TODO XXXX
 status,Two Face,Selfd,double-face-mask,"While this card is active, you and your right neighbor swap names.",XXX TODO XXX
 status,Mute,All,mute,"Choose a word. While this card is active, anyone who says that word must drink.",XXX TODO XXX
-status,Hostage,Self,manacles,"Take of a piece of clothing. You may only put it back on when this card is no longer active for you.",XXX TODO XXX
+status,Hostage,Self,manacles,"Take off a piece of clothing. You may only put it back on when this card is no longer active for you.",XXX TODO XXX
 status,Creep,Self,cyclops,"Whenever you talk to someone of the opposite sex, act like you just hinted at something dirty by winking etc. Also, just generally act like a creep.",But I've seen everything
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Steal a material:material: from each player you win against. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
