@@ -21,7 +21,7 @@ active, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
 active, Drunken Stumble, 0, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
 active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", Let's be friends
 active, Peer Pressure, 3, All, minions,Force everyone to take an action that you need to perform as well., Peer pressure? More like beer pressure!
-active, Swap, 3, Enemy, stone-throne, Swap everything (place, drink, materials, hand and status cards) except weapons with a player of your choice., COME OVER HERE!
+active, Swap, 3, Enemy, stone-throne,"Swap everything (place, drink, materials, hand and status cards) except weapons with a player of your choice.", COME OVER HERE!
 active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has to play one of his action cards., I hope this doesn't backfire.
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
 active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
