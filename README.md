@@ -30,7 +30,7 @@ _FratAttack_ is playable, but there are still lot's of things we'd like to impro
 If you'd like to help, there are several ways:
 
 * If you have an idea for a card that you think would fun, let us know!
-* Let us know about mistakes (spelling, unclear rules,...)? 
+* Let us know about mistakes (spelling, unclear rules,...)
 * Nothing is written in stone. Got a cool flavor text or name for a card that already has one? If we like it, we might change it.
 * Art. I'm terrible at designing the graphics that can make a game so much better. If you want to contribute designs for cards, board, etc you are more than welcome!
 
