@@ -12,7 +12,7 @@ The gameplay itself is pretty easy. Think of _FratAttack_ as a paper version of 
 [1]: # "At least you assume that's what they want. Maybe they just want to bring world-peace and elevate humanity to the next level of existence, who knows."
 
 #Download
-This game is completely free and you can print it out yourself. You can [download](https://bitbucket.org/Mirko_K/fratattack/downloads/FratAttack.pdf) a PDF version that I try to keep up-to-date. 
+This game is completely free and you can print it out yourself. You can [download](https://bitbucket.org/Mirko_K/fratattack/downloads/FratAttack.pdf) a PDF version that is kept up-to-date as the game evolves.
 
 # What You'll Need
 
