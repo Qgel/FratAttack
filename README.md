@@ -19,19 +19,19 @@ This game is completely free and you can print it out yourself. You can [downloa
 To play this game, you will need:
 
 * The printed out materials of the game (board, cards and scoring cards)
-* A die and some figures that represent the players on the board.
+* A die and some figures that represent the players on the board. Bottle caps work well!
 * A drink to sip, e.g. Beer
 * Spirits and shot glasses
 * 3 or more people
 
 # Contributing
 
-_FratAttack_ is not finished yet, there are lot's of things we'd like to improve!
+_FratAttack_ is playable, but there are still lot's of things we'd like to improve!
 If you'd like to help, there are several ways:
 
-* We are always looking for new card ideas. If you have any that you think might be fun, let us know!
-* Found a mistake (spelling, unclear rules,...)? Tell us.
-* Nothing is written in stone. Got a cool flavor text or name for a card that already has one? If it's cool, We'll probably change it.
+* If you have an idea for a card that you think would fun, let us know!
+* Let us know about mistakes (spelling, unclear rules,...)? 
+* Nothing is written in stone. Got a cool flavor text or name for a card that already has one? If we like it, we might change it.
 * Art. I'm terrible at designing the graphics that can make a game so much better. If you want to contribute designs for cards, board, etc you are more than welcome!
 
 The easiest way to let us know about your ideas is to open an issue on the bugtracker!
