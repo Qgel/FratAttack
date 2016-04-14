@@ -33,3 +33,4 @@ Cards are put into two piles on the board based on whether they are _Event_ or _
 * Whenever a player finishes their drink, they may draw an action card or receive three materials.
 * Always round down, unless a card says otherwise.
 * If in doubt about the rules, do whatever results in more drinking.
+
