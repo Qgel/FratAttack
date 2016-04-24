@@ -50,3 +50,4 @@ active,Scan,2,All,radar-sweep,"All enemy players must reveal their action cards.
 active,Buyout,0,Self,_shop,"Immediately trade 20 materials:material: for one weapon.",XXX TODO XXX
 active,Blitzkrieg,1,Self,lightning-branches,"It's now your turn.",Mein Turn
 active,Stun Grenade,3,Any,stun-grenade,"A player of your choice skips their next turn.",Fire in the hole!
+active,EMP,4,Enemy,crowned-explosion,"The chosen player drinks:beer: instead of receiving materials until their next turn.",XXX TODO XXX
