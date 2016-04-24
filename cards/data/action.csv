@@ -51,3 +51,4 @@ active,Buyout,0,Self,_shop,"Immediately trade 20 materials:material: for one wea
 active,Blitzkrieg,1,Self,lightning-branches,"It's now your turn.",Mein Turn
 active,Stun Grenade,3,Any,stun-grenade,"A player of your choice skips their next turn.",Fire in the hole!
 active,EMP,4,Enemy,crowned-explosion,"The chosen player drinks:beer: instead of receiving materials until their next turn.",XXX TODO XXX
+active,Stomp,3,Enemy,boot-stomp,"All enemies which are on the same square as you are loose half their materials.",XXX TODO XXX
