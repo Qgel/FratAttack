@@ -17,6 +17,7 @@ status, The Leech, 3, Enemy, leeching-worm,"Give to an enemy. As long as they ho
 status, Diplomacy, 3, Any, tied-scroll,"You may choose between drinking shots:shot: and drinks:beer:. The exchange rate is 5:beer: = 1:shot:.","There's options?!"
 status, Thief, 4, Self, cowled,"Whenever you land on a square with a player on it, you steal two materials:material: from that player.",XXX TODO XXX
 status, Captain, 2, Self, wooden-pegleg,"Whenever you land on a square with a player on it, you can make that player drink:beer:.",Yo Ho and a bottle of rum
+status, Space Invader, 3, Self,_space_invader,"Whenever you enter someone elses square, you can make them move forward or backward if you like.",XXX TODO XXX
 active, Push, 2, Enemy, push, Push an enemy forward 3 spaces., Get outta here!
 active, Drunken Stumble, 0, Self, jump-across, Move forward or backward X spaces up to a maximum of 4. Drink:beer: X * 2., It always seems faster when you're drunk.
 active, Ye Olde Switcheroo, 3, Enemy, body-swapping,"For the next round, the chosen player drinks for you, and you for him.", Let's be friends
