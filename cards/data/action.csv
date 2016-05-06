@@ -55,3 +55,4 @@ active,EMP,4,Enemy,crowned-explosion,"The chosen player drinks:beer: instead of 
 active,Stomp,3,Enemy,boot-stomp,"All enemies which are on the same square as you are loose half their materials.",XXX TODO XXX
 active,Divine Intervention,2,Self,hand-of-god,"Change the outcome of a dice roll. Drink:beer: the difference between the two results.",XXX TODO XXX
 active,Uncertainty,2,Self,white-cat,"Re-roll a dice roll.",XXX TODO XXX
+active,Frankenstein,1,Self,frankenstein-creature,"Take any previously played event card, and put it on the top of the event card stack.","Yes, we know it's 'Frankenstein's Monster', but that didn't fit the title"
