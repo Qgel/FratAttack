@@ -31,7 +31,7 @@ task :assemble do
   sh "inkscape score_tracker.svg --export-pdf=score_tracker.pdf"
   sh "pdfjam score_tracker.pdf score_tracker.pdf score_tracker.pdf score_tracker.pdf --nup 2x2 --a4paper --landscape --quiet --outfile score_tracker_page.pdf"
   sh "cp RULES.md RULES-tmp.md"
-  sh "echo \"*Version `git rev-list HEAD --count`*\" >> RULES-tmp.md"
+  sh "echo \"*Version $(git rev-list HEAD --count) - $(date +%F)*\" >> RULES-tmp.md"
   sh "pandoc -V geometry:margin=1in -V geometry:a4paper RULES-tmp.md -o rules.pdf"
   sh "pdfunite cards/_output/output.pdf board.pdf score_tracker_page.pdf rules.pdf FratAttack.pdf"
   sh "rm -f RULES-tmp.md board.pdf score_tracker.pdf score_tracker_page.pdf rules.pdf"
