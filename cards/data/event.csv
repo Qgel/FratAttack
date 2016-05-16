@@ -43,6 +43,7 @@ status,Bee's Knees,Self,bee,"While this card is active, touch the knee of the pe
 status,Eskimo,Self,eskimo,"Put on an article of clothing from everyone else who is playing. Wear them as long as this card is active.",XXX TODO XXX
 status,Freeze,Self,ice-bolt,"Do not move, unless it is required of you by the game.",XXX TODO XXX
 status,1st Day of School,Self,briefcase,"While this card is active, you must raise your hand before speaking.",XXX TODO XXX
+status,PC Principal,Self,_public-speaker,"Whenever someone says something that is even remotely politically incorrect, call them out on it. They drink:beer:.","You PC, bro?"
 active,Rock Paper Scissors,Self,paper,Play Rock Paper Scissors once against everyone. Steal a material:material: from each player you win against. Drink:beer: for each loss.,Lizard poisons Spock.
 active,Redshirt,All,chain-mail,The person with the reddest shirt finishes their drink.,No officers or engineers were harmed in the making of this game.
 active,"Feminism, bitch!",Self,female,Name 5 famous women from history. Drink:beer: once for each you fall short. Got all 5? Have 3 materials:material:., XXXXX TODO XXXXX
