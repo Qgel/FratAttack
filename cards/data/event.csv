@@ -74,7 +74,7 @@ active,Bravery,Self,medal,"Drink as many shots:shot: as you like. For each one, 
 active,Witch Hunt,Any,witch-flight,"Remove all active status cards from a player of your choice. Drink:beer: for each removed card.","Bloody Mary, Bloody Mary, Bloody Mary"
 active,Treasure Chest,Self,locked-chest,"The Chest contains loot! Roll a die and receive the result in materials:material:.",I expected it to be booby-trapped
 active,Truth Serum,Self,drink-me,"Answer a question asked by the group truthfully.",XXXX TODO XXXX
-active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player.",And they lived happily ever after
+active,Story Time,Self,bookmarklet,"Tell a drinking story that involves another player. You and that player touch glasses and drink:beer:.",And they lived happily ever after
 active,How Impolite,All,phone,"Anyone with their phone visible must drink:beer:. If they are holding it in their hands, they drink a shot:shot: instead",Can't we just have a conversation for once
 active,Reset,All,clockwork,"Shuffle all active status cards back into their decks.",Back to square one
 active,Helping Hand,Self,shaking-hands,"All players agree on who is most drunk. You drink that players share until the end of their next turn.",I PITY THE FOOL
