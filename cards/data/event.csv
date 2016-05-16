@@ -103,7 +103,7 @@ active,Human Horn,All,rhinoceros-horn,"The group decides which guy probably has 
 active,The Well,Self,well,"Drink:beer: as much as you like. Choose another player who has to match what you just drank.",XXX TODO XXX
 active,Armwrestle,Self,mailed-fist,"Arm wrestle the player opposite of you. The winner gets three materials:material:. The loser drinks:beer:.",XXX TODO XXX
 active,Patriotism,Self,black-flag,"Drink:beer: and gargle the national anthem.",XXX TODO XXX
-active,Sexism,All,nothing-to-say,"Make a sexist remark about the opposite sex and everyone of the opposite sex drinks.",XXX TODO XXX
+active,Sexism,All,nothing-to-say,"Make a sexist remark about the opposite sex. Everyone of the opposite sex drinks.",XXX TODO XXX
 active,Men in Blank,Self,tie,"For every weapon you have, either drink a shot:shot: or take off a piece of clothing.",What's that flashy thing?
 active,Alien Attack,Self,robot-golem,"The aliens are going for another attack! Everyone drink.",XXX TODO XXX
 active,The Slap,Self,slap,"Choose a player who slaps your ass. And don't forget to thank them afterwards!",You've been naughty
