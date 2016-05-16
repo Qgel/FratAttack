@@ -25,7 +25,7 @@ active, Peer Pressure, 3, All, minions,Force everyone to take an action that you
 active, Swap, 3, Enemy, stone-throne,"Swap everything (place, drink, materials, hand and status cards) except weapons with a player of your choice.", COME OVER HERE!
 active, Force the Hand, 3, Enemy, pointing, Choose a player who immediately has to play one of his action cards., I hope this doesn't backfire.
 active, Cleanse, 2, Any, holy-grail, Remove a status effect.,"Cleansed in blood, reborn in sin"
-active, Tribute, 0, Any, chalice-drops, Remove a status effect. Drink:beer: it's cost.,"Apparently, alcohol sometimes is the solution."
+active, Tribute, 0, Any, chalice-drops,"Remove a status effect. If it's an action card, drink:beer: it's cost. If it's an event card, drink:beer: twice.","Apparently, alcohol sometimes is the solution."
 active, Hoarder, 2, Any, gold-stack,"Make a player drink:beer: equal to the combined cost of all cards he holds in his hands. At most, they player has to finish their drink.",The rich get richer. And drunker.
 active, Enlightenment, 2, Self, enlightenment, Look at the top three event cards. Put them back in any order., Knowledge is power
 active, Lightning Strike, 2, Any, focused-lightning,"Choose a player, who immediately has to draw an event card and play it.",ZAPP
