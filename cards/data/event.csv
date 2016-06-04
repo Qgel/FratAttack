@@ -92,7 +92,7 @@ active,Concoction,All,bottle-vapors,"Mix a cocktail from whatever you want. Ever
 active,One Cup,All,coffee-mug,"Choose two players who have to simultaneously drink from the same cup.","Two drunks, one cup"
 active,Grenade,Self,grenade,"Throw this card at someone. If it hits someone, they have to drink:beer:. If it misses, you drink:beer:.",Fire in the hole
 active,System Overload,Self,circuitry,"Drink:beer: once for each of your active status cards, then remove one of them.","Have you tried turning it off and on again?"
-active,Ouroboros,Self,ouroboros,"Replay the last event card.",XXX TODO XXX
+active,Ouroboros,Self,ouroboros,"Replay the last event card.","Again!"
 active,Russian Roulette,All,revolver,"Spin a bottle. Whoever it points to drinks a shot:shot:.",R NbRH
 active,Beer Police,All,_police-officer-head,"The person that is least drunk, as voted by the group, drinks:beer:.","Son do you know what I'm stopping you for?"
 active,Stay in Contact,Self,mailbox,"The person to your left types a message to any of your contacts on your phone, but doesn't send it. Read the message out loud, and either send it or drink a shot:shot:.",XXX TODO XXX
