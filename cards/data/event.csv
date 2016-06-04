@@ -22,7 +22,7 @@ status,Ghost,Self,ghost,"All other players ignore you for anything not directly 
 status,Head Protection,Self,helmet-head-shot,"Use something as a makeshift helmet. Keep it on your head as long as this card is active.",Better safe than sorry
 status,Old Sailor,Self,ship-wheel,"You have to curse everytime you talk","Bleep your mother's blank with a maggoty carrot!"
 status,Beer Goggles,Self,spectacle-lenses,"Make someone a compliment whenever your turn starts.",You are smarter than you look
-status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you've rolled.",XXXX TODO XXXX
+status,Trust,Self,blindfold,"You roll dice blind. The other players tell you what you've rolled.","May cause trust issues"
 status,Lady,Self,high-heel,"You always drink with your pinky extended",Tea time
 status,Ring Ring,Self,ringing-bell,"Turn up the volume on your phone. Whenever it rings, drink:beer:.","Ring Ring Ring, Bananaphone"
 status,Question Master,Self,_question-master,"Whenever another player answers a question you have asked, that player must drink:beer:.","With great power comes great responsibility"
