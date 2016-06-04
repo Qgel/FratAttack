@@ -32,9 +32,9 @@ status,Mute,All,mute,"Choose a word. While this card is active, anyone who says 
 status,Hostage,Self,manacles,"Take off a piece of clothing. You may only put it back on when this card is no longer active for you.",XXX TODO XXX
 status,Creep,Self,cyclops,"Whenever you talk to someone of the opposite sex, act like you just hinted at something dirty by winking etc. Also, just generally act like a creep.",But I've seen everything
 status,Chin Up Champ,Self,pig-face,"As long as this card is active, you must keep your chin on the table at all times.",XXX TODO XXX
-status,Soul Link,Self,andromeda-chain,"All players with a Soul Link card active share all their status cards with each other.",XXX TODO XXX
-status,Soul Link,Self,andromeda-chain,"All players with a Soul Link card active share all their status cards with each other.",XXX TODO XXX
-status,Soul Link,Self,andromeda-chain,"All players with a Soul Link card active share all their status cards with each other.",XXX TODO XXX
+status,Soul Link,Self,andromeda-chain,"All players with a Soul Link card active share all their status cards with each other.","The mind"
+status,Soul Link,Self,andromeda-chain,"All players with a Soul Link card active share all their status cards with each other.","The body"
+status,Soul Link,Self,andromeda-chain,"All players with a Soul Link card active share all their status cards with each other.","The soul"
 status,Psychologist,Self,brain,"You may only refer to yourself in the third person.","If he doesn't follow the rules, he drinks"
 status,Bad Batch,Self,moon,"That last batch made you blind. Keep your eyes closed. This card is removed when you pass the Frat House.",XXX TODO XXX
 status,Praying Mantis,Self,praying-mantis,"While this card is active, your ellbows have to constantly touch each other.",XXX TODO XXX
