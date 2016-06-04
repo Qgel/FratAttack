@@ -123,6 +123,6 @@ active,Swift Tailor,Self,sewing-needle,"Take off and create a line out of as man
 active,Your Style,Self,_corset,"Give an article of clothing to a player of your choice, who has to wear it.",XXX TODO XXX
 active,Tasty,Self,back-forth,"Swap beverages with the person to your left.",XXX TODO XXX
 active,Songwriter,All,sing,"Choose a song. Going in circle, everyone recites the next line from it's lyrics. The first one who can't continue, drinks. The person who finishes the song, gets five materials:material:. You start.","Is this real life, is this just fanttasy"
-active,Eye Contact,All,look-at,"Everyone look at the ground. On the count of three, everyone has to look at another players eyes. Any players who make eye contact, drink.",XXX TODO XXX
+active,Eye Contact,All,look-at,"Everyone look at the ground. On the count of three, everyone has to look at another players eyes. Any players who make eye contact, drink.","What are you looking at?!"
 active,Storyteller,Self,think,"Write a message containing two words chosen by the group to 21st contact in your phone, or drink a shot:shot:.",XXX TODO XXX
 active,Picture Day,All,dark-squad,"Point a camera somewhere and slowly count to three, then take a picture. Whoever is not in it, drinks!",XXX TODO XXX
