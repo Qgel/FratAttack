@@ -1,5 +1,4 @@
 type,name,cost,target,art,description,flavor
-status, Broken Shield, 2, Self, broken-shield, Drink only half the amount (rounded up) you are forced to by any action targeted at you., Death by two-thousand cuts.
 status, St. Patricks Day, 3, Enemy, _clover,"Aquire at least 3 green objects and protect them from the other players. Drink:beer: everytime an item is stolen.", I'll be irish in a few beers.  
 status, Slow Motion, 2, Any, tortoise, You only move at half speed (rounded up)., Slow and steady wins less of a hangover.
 status, Clone Bay, 4, Any,_cryo-chamber,"Replay any one previously played action or event card of your choice.", Insanity: Doing the same thing over and over again and expecting different results
